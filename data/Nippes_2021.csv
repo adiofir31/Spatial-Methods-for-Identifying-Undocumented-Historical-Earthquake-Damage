@@ -1,0 +1,135 @@
+City,State/Region,Country,Zip Code,MMI,Responses,Distance,Latitude,Longitude
+Cabo Rojo,PR,United States of America,00623,II,1,670 km,18.0527198289,-67.1573839926
+Quebradillas,PR,United States of America,00678,II,1,692 km,18.4392110103,-66.9257979212
+Punta Santiago,PR,United States of America,00741,I,1,817 km,18.1674697119,-65.7594140693
+Loiza,PR,United States of America,00772,I,1,801 km,18.425426046,-65.8985845961
+San Juan,PR,United States of America,00901,III,1,779 km,18.465064207,-66.1050081102
+Millbury,MA,United States of America,01527,I,1,2638 km,42.1918386124,-71.7746107649
+Westerly,RI,United States of America,02891,II,1,2546 km,41.3607105302,-71.7929882523
+Chester,NJ,United States of America,07930,I,1,2480 km,40.7878468382,-74.6823390308
+Trenton,NJ,United States of America,08691,II,1,2416 km,40.2117793583,-74.5774309341
+Washington,DC,United States of America,20004,II,1,2293 km,38.891739574,-77.0231293725
+Jarrettsville,MD,United States of America,21084,II,1,2366 km,39.6192936186,-76.4635052096
+Morehead City,NC,United States of America,28557,II,1,1835 km,34.7370913722,-76.7629427489
+Mount Pleasant,SC,United States of America,29466,I,1,1720 km,32.876035147,-79.7934696105
+Myrtle Beach,SC,United States of America,29579,I,1,1782 km,33.7507453544,-78.9287203782
+Pompano Beach,FL,United States of America,33066,II,1,1107 km,26.2535432219,-80.1775658955
+Pompano Beach,FL,United States of America,33076,II,1,1118 km,26.3107565717,-80.274256748
+Miami,FL,United States of America,33129,II,2,1067 km,25.7543850918,-80.2051611845
+Miami,FL,United States of America,33131,II,1,1067 km,25.7666657174,-80.1897099115
+Miami,FL,United States of America,33174,I,1,1077 km,25.7623561392,-80.3570910474
+Fort Lauderdale,FL,United States of America,33301,V,1,1092 km,26.1214248528,-80.1280358632
+North Palm Beach,FL,United States of America,33408,III,1,1151 km,26.8456949164,-80.0586280682
+Palm Beach Gardens,FL,United States of America,33410,I,1,1152 km,26.8482130636,-80.0874159021
+Palm Beach Gardens,FL,United States of America,33418,II,1,1158 km,26.8604434805,-80.1662951118
+Riverview,FL,United States of America,33578,I,1,1383 km,27.8628154053,-82.3427993763
+Windermere,FL,United States of America,34786,I,1,1385 km,28.4819219129,-81.5547345224
+Port Saint Lucie,FL,United States of America,34984,II,1,1203 km,27.2484433565,-80.3350308989
+Ann Arbor,MI,United States of America,48103,II,1,2822 km,42.2588187272,-83.8419367613
+North Little Rock,AR,United States of America,72114,I,1,2602 km,34.7665246174,-92.2566701459
+Scarborough,Tobago,Trinidad and Tobago,,II,1,1589 km,11.18,-60.74
+Cockburn Harbour,South Caicos and East Caicos,Turks and Caicos Islands,,II,2,396 km,21.5,-71.52
+Maracaibo,Zulia,Venezuela,,II,1,874 km,10.73,-71.66
+Las Charcas,Azua,Dominican Republic,,III,1,302 km,18.45,-70.62
+Padre las Casas,Azua,Dominican Republic,,III,1,271 km,18.73,-70.93
+Barahona,Barahona,Dominican Republic,,II,1,253 km,18.21,-71.1
+Enriquillo,Barahona,Dominican Republic,,III,1,245 km,17.9,-71.23
+Paraíso,Barahona,Dominican Republic,,IV,1,249 km,18,-71.17
+Dajabón,Dajabón,Dominican Republic,,IV,1,224 km,19.55,-71.71
+Cenoví,Duarte,Dominican Republic,,IV,1,340 km,19.25,-70.37
+San Francisco de Macorís,Duarte,Dominican Republic,,II,2,353 km,19.3,-70.25
+Gaspar Hernández,Espaillat,Dominican Republic,,III,1,361 km,19.62,-70.28
+Moca,Espaillat,Dominican Republic,,IV,1,329 km,19.4,-70.53
+Constanza,La Vega,Dominican Republic,,II,1,293 km,18.91,-70.75
+Jarabacoa,La Vega,Dominican Republic,,III,2,309 km,19.12,-70.64
+La Vega,La Vega,Dominican Republic,,III,4,323 km,19.22,-70.53
+Tireo,La Vega,Dominican Republic,,III,1,300 km,18.93,-70.68
+Bonao,Monseñor Nouel,Dominican Republic,,IV,1,329 km,18.95,-70.41
+Monte Cristi,Monte Cristi,Dominican Republic,,I,1,248 km,19.85,-71.65
+Puerto Plata,Puerto Plata,Dominican Republic,,III,3,329 km,19.8,-70.7
+Sosúa,Puerto Plata,Dominican Republic,,III,3,344 km,19.75,-70.52
+Salcedo,Salcedo,Dominican Republic,,V,1,343 km,19.42,-70.39
+Villa Tapia,Salcedo,Dominican Republic,,II,2,336 km,19.3,-70.42
+Las Terrenas,Samaná,Dominican Republic,,I,1,427 km,19.32,-69.53
+Samaná,Samaná,Dominican Republic,,I,1,446 km,19.21,-69.33
+El Carril,San Cristóbal,Dominican Republic,,III,8,365 km,18.45,-70.02
+San Cristóbal,San Cristóbal,Dominican Republic,,III,4,356 km,18.42,-70.11
+San Pedro de Macorís,San Pedro de Macorís,Dominican Republic,,II,3,440 km,18.46,-69.31
+Baitoa,Santiago,Dominican Republic,,IV,1,309 km,19.32,-70.7
+Licey al Medio,Santiago,Dominican Republic,,IV,2,323 km,19.43,-70.6
+Palmar Arriba,Santiago,Dominican Republic,,III,1,314 km,19.53,-70.73
+Santiago,Santiago,Dominican Republic,,III,30,316 km,19.48,-70.69
+Tamboril,Santiago,Dominican Republic,,III,1,325 km,19.48,-70.6
+Villa Bisonó,Santiago,Dominican Republic,,III,1,302 km,19.56,-70.87
+Villa González,Santiago,Dominican Republic,,III,1,309 km,19.53,-70.78
+Santo Domingo,Santo Domingo,Dominican Republic,,III,42,377 km,18.48,-69.91
+Mao,Valverde,Dominican Republic,,III,1,282 km,19.56,-71.08
+Matthew Town,Inagua Islands,Bahamas,,III,1,280 km,20.96,-73.68
+Nassau,New Providence,Bahamas,,I,1,834 km,25.06,-77.33
+George Town,Grand Cayman,Cayman Islands,,I,1,838 km,19.28,-81.39
+East End,_no region,Cayman Islands,,II,1,810 km,19.3,-81.12
+Desarmes,Artibonite,Haiti,,III,1,132 km,19,-72.38
+Gonaïves,Artibonite,Haiti,,V,1,140 km,19.45,-72.69
+Saint-Marc,Artibonite,Haiti,,V,3,111 km,19.11,-72.7
+Mirebalais,Centre,Haiti,,IV,2,152 km,18.83,-72.1
+Asile,GrandʿAnse,Haiti,,VIII,10,13 km,18.38,-73.42
+Jérémie,GrandʿAnse,Haiti,,VIII,1,72 km,18.65,-74.12
+Petit-Trou-de-Nippes,GrandʿAnse,Haiti,,VIII,1,15 km,18.53,-73.52
+Port-de-Paix,Nord-Ouest,Haiti,,III,1,180 km,19.94,-72.84
+Cap-Haïtien,Nord,Haiti,,III,4,199 km,19.76,-72.2
+Dondon,Nord,Haiti,,IV,1,179 km,19.53,-72.23
+Pignon,Nord,Haiti,,II,1,175 km,19.34,-72.12
+Plaine-du-Nord,Nord,Haiti,,II,1,188 km,19.68,-72.27
+Anse-à-Galets,Ouest,Haiti,,VII,1,79 km,18.84,-72.87
+Cabaret,Ouest,Haiti,,IV,2,117 km,18.73,-72.42
+Croix-des-Bouquets,Ouest,Haiti,,V,9,132 km,18.59,-72.24
+Delmas,Ouest,Haiti,,IV,8,128 km,18.55,-72.28
+Grand-Goave,Ouest,Haiti,,VII,2,75 km,18.43,-72.77
+Kenscoff,Ouest,Haiti,,III,6,126 km,18.45,-72.29
+Petit Goâve,Ouest,Haiti,,IV,2,66 km,18.43,-72.86
+Port-au-Prince,Ouest,Haiti,,VI,10,121 km,18.54,-72.34
+Pétionville,Ouest,Haiti,,IV,9,126 km,18.52,-72.29
+Jacmel,Sud-Est,Haiti,,V,2,102 km,18.24,-72.54
+Camp-Perrin,Sud,Haiti,,IX,2,44 km,18.32,-73.87
+Cavaillon,Sud,Haiti,,VIII,3,25 km,18.3,-73.65
+Saint-Louis-du-Sud,Sud,Haiti,,IX,1,21 km,18.27,-73.55
+Torbeck,Sud,Haiti,,IX,2,47 km,18.17,-73.82
+Vieux-Bourg-dʿAcquin,Sud,Haiti,,IX,2,22 km,18.3,-73.35
+Envigado,Antioquia,Colombia,,II,1,1376 km,6.16,-75.56
+Cartagena,Bolívar,Colombia,,II,1,915 km,10.4,-75.5
+May Pen,Clarendon,Jamaica,,IV,3,400 km,17.97,-77.24
+Mona,Kingston,Jamaica,,IV,6,347 km,18,-76.73
+Coleyville,Manchester,Jamaica,,II,1,425 km,18.22,-77.5
+Mandeville,Manchester,Jamaica,,III,3,425 km,18.05,-77.48
+Williamsfield,Manchester,Jamaica,,II,1,424 km,18.07,-77.48
+Buff Bay,Portland,Jamaica,,III,1,337 km,18.23,-76.67
+Hope Bay,Portland,Jamaica,,IV,2,327 km,18.2,-76.57
+Port Antonio,Portland,Jamaica,,IV,2,308 km,18.16,-76.38
+Constant Spring,Saint Andrew,Jamaica,,IV,22,351 km,18.05,-76.78
+Half Way Tree,Saint Andrew,Jamaica,,III,16,353 km,18,-76.79
+Kingston,Saint Andrew,Jamaica,,IV,1,354 km,17.99,-76.8
+Stony Hill,Saint Andrew,Jamaica,,III,1,351 km,18.08,-76.78
+Bamboo,Saint Ann,Jamaica,,III,2,399 km,18.38,-77.26
+Claremont,Saint Ann,Jamaica,,IV,1,389 km,18.38,-77.17
+Discovery Bay,Saint Ann,Jamaica,,II,1,412 km,18.47,-77.39
+Ocho Rios,Saint Ann,Jamaica,,III,7,383 km,18.42,-77.11
+Runaway Bay,Saint Ann,Jamaica,,IV,1,406 km,18.45,-77.33
+Saint Annʿs Bay,Saint Ann,Jamaica,,III,2,395 km,18.44,-77.22
+Bog Walk,Saint Catherine,Jamaica,,III,1,376 km,18.1,-77.02
+Old Harbour,Saint Catherine,Jamaica,,II,1,387 km,17.92,-77.1
+Portmore,Saint Catherine,Jamaica,,IV,9,363 km,17.95,-76.88
+Spanish Town,Saint Catherine,Jamaica,,II,2,370 km,18,-76.95
+Balaclava,Saint Elizabeth,Jamaica,,III,1,441 km,18.17,-77.65
+Lacovia,Saint Elizabeth,Jamaica,,III,1,453 km,18.07,-77.75
+Montego Bay,Saint James,Jamaica,,III,1,468 km,18.47,-77.92
+Highgate,Saint Mary,Jamaica,,III,1,358 km,18.32,-76.87
+Oracabessa,Saint Mary,Jamaica,,III,1,364 km,18.47,-76.93
+Dalvey,Saint Thomas,Jamaica,,IV,1,298 km,17.9,-76.25
+Easington,Saint Thomas,Jamaica,,III,1,334 km,17.92,-76.6
+Clarkʿs Town,Trelawney,Jamaica,,II,1,431 km,18.42,-77.57
+Falmouth,Trelawney,Jamaica,,III,3,441 km,18.49,-77.66
+Petersfield,Westmoreland,Jamaica,,II,1,485 km,18.25,-78.07
+Mexico City,Distrito Federal,Mexico,,II,1,2704 km,19.43,-99.14
+Santa Marta,Magdalena,Colombia,,II,1,797 km,11.26,-74.19
+Guantánamo,Guantánamo,Cuba,,IV,7,263 km,20.15,-75.22
+Santiago de Cuba,Santiago de Cuba,Cuba,,IV,1,301 km,20.01,-75.82

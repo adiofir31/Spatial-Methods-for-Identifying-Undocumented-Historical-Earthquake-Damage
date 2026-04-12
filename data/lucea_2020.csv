@@ -1,0 +1,374 @@
+City,State/Region,Country,Zip Code,MMI,Responses,Distance,Latitude,Longitude
+Fajardo,PR,United States of America,00738,II,1,1384 km,18.3166549582,-65.6706288279
+Bayamon,PR,United States of America,00956,I,1,1331 km,18.3222476453,-66.1698318091
+New York,NY,United States of America,10019,III,1,2410 km,40.7654423025,-73.9871745365
+New York,NY,United States of America,10024,I,1,2413 km,40.7891917656,-73.9708192089
+New York,NY,United States of America,10036,III,1,2409 km,40.7593087733,-73.9897698332
+Staten Island,NY,United States of America,10310,III,1,2393 km,40.632782956,-74.1164943986
+Middletown,NY,United States of America,10940,II,1,2476 km,41.4485732303,-74.4707326597
+Commack,NY,United States of America,11725,I,1,2432 km,40.8405442484,-73.2807242449
+Levittown,NY,United States of America,11756,I,1,2415 km,40.7254453652,-73.5166556125
+Oyster Bay,NY,United States of America,11771,II,1,2430 km,40.866787673,-73.5273483951
+Orient,NY,United States of America,11957,III,1,2488 km,41.1513804098,-72.2600179247
+Austerlitz,NY,United States of America,12017,II,1,2588 km,42.3183116408,-73.4531217627
+Cornwall on Hudson,NY,United States of America,12520,I,1,2482 km,41.4366708714,-74.0140964066
+New Paltz,NY,United States of America,12561,III,1,2516 km,41.754800752,-74.0961367983
+Geneseo,NY,United States of America,14454,II,1,2593 km,42.7955673351,-77.7717454724
+Albion,PA,United States of America,16401,III,1,2494 km,41.8796992888,-80.3968990948
+Havertown,PA,United States of America,19083,II,1,2303 km,39.9771546938,-75.3119362616
+Exton,PA,United States of America,19341,I,1,2305 km,40.0412648322,-75.6378717758
+Washington,DC,United States of America,20008,III,1,2169 km,38.9364685872,-77.059167965
+Washington,DC,United States of America,20024,II,2,2163 km,38.8764639784,-77.0257515359
+Ashburn,VA,United States of America,20147,I,1,2178 km,39.0405159938,-77.480693297
+Suitland,MD,United States of America,20746,III,1,2159 km,38.8371720126,-76.9192133125
+Bethesda,MD,United States of America,20814,I,1,2176 km,39.0045372152,-77.1022201038
+Gaithersburg,MD,United States of America,20878,I,1,2187 km,39.1133575475,-77.2497560605
+Baltimore,MD,United States of America,21202,I,1,2213 km,39.2971800154,-76.6077405647
+Arlington,VA,United States of America,22201,I,1,2163 km,38.8866481508,-77.0949159698
+High Point,NC,United States of America,27262,II,1,1837 km,35.9616953454,-80.0404677702
+Raleigh,NC,United States of America,27603,I,1,1800 km,35.6644373328,-78.6625922482
+Leland,NC,United States of America,28451,II,1,1644 km,34.2457661163,-78.111135459
+Myrtle Beach,SC,United States of America,29575,I,1,1574 km,33.6289399284,-78.9729077684
+Rock Hill,SC,United States of America,29730,I,1,1728 km,34.8864897425,-81.0230635421
+Norcross,GA,United States of America,30092,I,1,1702 km,33.9721670114,-84.2353221454
+Acworth,GA,United States of America,30101,II,1,1725 km,34.0434933115,-84.7159009407
+Atlanta,GA,United States of America,30326,I,1,1693 km,33.8495452335,-84.3625050012
+Atlanta,GA,United States of America,30336,V,1,1688 km,33.7393656942,-84.5654212785
+Athens,GA,United States of America,30601,II,1,1678 km,33.998208341,-83.346696378
+Madison,GA,United States of America,30650,II,1,1638 km,33.5910691315,-83.4618081013
+Macon,GA,United States of America,31201,II,1,1563 km,32.8272733454,-83.6248474433
+Columbus,GA,United States of America,31901,I,1,1574 km,32.4648291301,-84.980055411
+Saint Augustine,FL,United States of America,32084,I,2,1190 km,29.9027338828,-81.3559732922
+Daytona Beach,FL,United States of America,32114,III,1,1107 km,29.1940850741,-81.0538073853
+Daytona Beach,FL,United States of America,32118,II,1,1108 km,29.2142157822,-81.0046347888
+Lady Lake,FL,United States of America,32159,II,1,1100 km,28.923826039,-81.9079858568
+Jacksonville,FL,United States of America,32246,II,1,1236 km,30.294322326,-81.518003211
+Tallahassee,FL,United States of America,32301,II,1,1340 km,30.427998889,-84.2570887074
+Tallahassee,FL,United States of America,32304,III,1,1346 km,30.4537039506,-84.3522353519
+Pensacola,FL,United States of America,32501,I,1,1489 km,30.422986651,-87.2259090096
+Pensacola,FL,United States of America,32507,II,1,1490 km,30.3471137038,-87.3627326871
+Crestview,FL,United States of America,32539,IV,1,1479 km,30.7804750254,-86.4659892704
+Fort Walton Beach,FL,United States of America,32548,II,1,1455 km,30.4176129098,-86.6298479841
+Apopka,FL,United States of America,32703,II,1,1061 km,28.6559445154,-81.5233950708
+Geneva,FL,United States of America,32732,II,1,1060 km,28.745973715,-81.1064054492
+Lake Mary,FL,United States of America,32746,II,2,1068 km,28.7633574283,-81.3507349602
+Longwood,FL,United States of America,32750,I,1,1062 km,28.7073063942,-81.3503715197
+Titusville,FL,United States of America,32796,III,1,1039 km,28.6004313837,-80.8839927335
+Orlando,FL,United States of America,32801,II,4,1044 km,28.5415004991,-81.3738008735
+Orlando,FL,United States of America,32807,I,1,1044 km,28.5527574725,-81.3016421392
+Orlando,FL,United States of America,32815,II,1,1038 km,28.6260902746,-80.6964766687
+Orlando,FL,United States of America,32819,I,1,1038 km,28.4555196312,-81.4718510828
+Orlando,FL,United States of America,32822,I,1,1037 km,28.4908085726,-81.291057565
+Orlando,FL,United States of America,32824,II,1,1027 km,28.3882388932,-81.3482249752
+Orlando,FL,United States of America,32827,III,1,1028 km,28.407755624,-81.2873179606
+Orlando,FL,United States of America,32836,I,1,1035 km,28.4192200849,-81.5136498554
+Orlando,FL,United States of America,32839,II,1,1040 km,28.488272938,-81.4077809709
+Cocoa Beach,FL,United States of America,32931,IV,1,1005 km,28.3311574295,-80.6152733934
+Rockledge,FL,United States of America,32955,II,2,1003 km,28.2885899347,-80.7826082912
+Vero Beach,FL,United States of America,32960,III,1,926 km,27.6415309695,-80.4038525754
+Vero Beach,FL,United States of America,32967,II,2,935 km,27.7110572413,-80.4752854978
+Hallandale,FL,United States of America,33009,II,2,741 km,25.9854019581,-80.1482318321
+Hialeah,FL,United States of America,33010,II,1,727 km,25.8322519175,-80.2792209219
+Hollywood,FL,United States of America,33019,II,2,744 km,26.0236173495,-80.1235110455
+Hollywood,FL,United States of America,33020,II,1,744 km,26.0193328461,-80.152315276
+Hollywood,FL,United States of America,33021,II,1,746 km,26.0232985468,-80.1875146716
+Hollywood,FL,United States of America,33023,II,2,743 km,25.9895250009,-80.2162850825
+Hollywood,FL,United States of America,33024,I,1,747 km,26.0270153489,-80.2450502923
+Hollywood,FL,United States of America,33025,III,3,744 km,25.987437288,-80.281421082
+Hollywood,FL,United States of America,33027,III,1,744 km,25.982337178,-80.3435519416
+Homestead,FL,United States of America,33030,II,1,694 km,25.4717698755,-80.529814184
+Homestead,FL,United States of America,33033,I,1,691 km,25.4683324269,-80.4002710077
+Key Largo,FL,United States of America,33037,III,1,661 km,25.2032961049,-80.3621345896
+Key West,FL,United States of America,33040,II,3,646 km,24.578216611,-81.6809275086
+Big Pine Key,FL,United States of America,33043,I,1,637 km,24.633821893,-81.3649594982
+Marathon,FL,United States of America,33050,II,5,631 km,24.6912864803,-81.0763679991
+Opa Locka,FL,United States of America,33055,I,1,739 km,25.9482123386,-80.2778862615
+Opa Locka,FL,United States of America,33056,II,1,739 km,25.9492684026,-80.2455142403
+Pompano Beach,FL,United States of America,33060,I,1,767 km,26.2349549405,-80.1200319366
+Pompano Beach,FL,United States of America,33062,II,1,768 km,26.2418213574,-80.093060759
+Pompano Beach,FL,United States of America,33064,III,1,772 km,26.2781511706,-80.1156239541
+Pompano Beach,FL,United States of America,33065,II,1,774 km,26.2733283768,-80.2617070714
+Pompano Beach,FL,United States of America,33069,I,1,768 km,26.2356762477,-80.1580952619
+Tavernier,FL,United States of America,33070,II,1,645 km,25.0096040397,-80.5240080733
+Pompano Beach,FL,United States of America,33071,I,1,771 km,26.2437240747,-80.2658434626
+Miami,FL,United States of America,33122,III,1,724 km,25.7976356537,-80.2998431972
+Miami,FL,United States of America,33125,II,3,721 km,25.7838927787,-80.2369875078
+Miami,FL,United States of America,33126,III,4,722 km,25.7796551805,-80.2986766146
+Miami,FL,United States of America,33127,IV,2,723 km,25.8137483746,-80.2056883005
+Miami,FL,United States of America,33128,III,2,719 km,25.7762402298,-80.2041855441
+Miami,FL,United States of America,33129,I,2,717 km,25.7543850918,-80.2051611845
+Miami,FL,United States of America,33130,II,6,718 km,25.7679354861,-80.2032399895
+Miami,FL,United States of America,33131,II,16,718 km,25.7666657174,-80.1897099115
+Miami,FL,United States of America,33132,II,8,719 km,25.7794131073,-80.1777686528
+Miami,FL,United States of America,33133,II,2,715 km,25.7302521442,-80.2425850729
+Miami,FL,United States of America,33134,II,6,718 km,25.7529871004,-80.2710514361
+Miami,FL,United States of America,33135,III,1,719 km,25.7663844706,-80.2348709888
+Miami,FL,United States of America,33136,II,7,720 km,25.7868961641,-80.2046511558
+Miami,FL,United States of America,33137,II,1,723 km,25.8166673147,-80.188035284
+Miami,FL,United States of America,33138,I,2,727 km,25.8555218378,-80.1840540816
+Miami Beach,FL,United States of America,33139,II,10,719 km,25.784036776,-80.1421017956
+Miami Beach,FL,United States of America,33140,III,1,722 km,25.8181829389,-80.1307638243
+Miami Beach,FL,United States of America,33141,II,3,726 km,25.8563893941,-80.1341171518
+Miami,FL,United States of America,33143,I,1,713 km,25.7021807715,-80.2981776507
+Miami,FL,United States of America,33145,II,1,717 km,25.7529790137,-80.2345101105
+Miami,FL,United States of America,33146,II,3,715 km,25.7202904628,-80.2729445015
+Key Biscayne,FL,United States of America,33149,III,4,711 km,25.7124609031,-80.1594526029
+Miami Beach,FL,United States of America,33154,III,3,729 km,25.8858336823,-80.1263030007
+Miami,FL,United States of America,33155,II,1,717 km,25.7367169385,-80.3111980236
+Miami,FL,United States of America,33156,III,12,709 km,25.6673830712,-80.2970955903
+Miami,FL,United States of America,33157,III,1,704 km,25.6064667521,-80.3433955448
+North Miami Beach,FL,United States of America,33160,II,3,735 km,25.933915588,-80.1361341685
+Miami,FL,United States of America,33162,II,1,735 km,25.9288831082,-80.178451225
+Miami,FL,United States of America,33166,II,3,727 km,25.827054226,-80.3121669311
+Miami,FL,United States of America,33170,I,1,702 km,25.5592154728,-80.4729895105
+Miami,FL,United States of America,33172,II,1,724 km,25.7880771175,-80.3608420634
+Miami,FL,United States of America,33173,II,2,715 km,25.7015390849,-80.3581260693
+Miami,FL,United States of America,33174,II,1,721 km,25.7623561392,-80.3570910474
+Miami,FL,United States of America,33176,II,3,710 km,25.6579653245,-80.359016017
+Miami,FL,United States of America,33180,III,1,738 km,25.9617840148,-80.1417885787
+Miami,FL,United States of America,33181,II,3,732 km,25.9007918253,-80.1548325875
+Miami,FL,United States of America,33182,IV,1,725 km,25.7821328335,-80.4167199312
+Miami,FL,United States of America,33184,I,1,722 km,25.7595330392,-80.4062155612
+Miami,FL,United States of America,33185,I,1,719 km,25.7208666401,-80.4654922263
+Miami,FL,United States of America,33194,I,1,723 km,25.7516032138,-80.4764065665
+Miami,FL,United States of America,33199,II,2,721 km,25.7572323634,-80.3762545997
+Fort Lauderdale,FL,United States of America,33301,II,6,755 km,26.1214248528,-80.1280358632
+Fort Lauderdale,FL,United States of America,33304,IV,2,757 km,26.1391500124,-80.1224566363
+Fort Lauderdale,FL,United States of America,33305,II,1,759 km,26.1539667558,-80.1234145515
+Fort Lauderdale,FL,United States of America,33308,I,1,762 km,26.1893012864,-80.1085631633
+Fort Lauderdale,FL,United States of America,33309,III,2,763 km,26.1880085673,-80.1741255487
+Fort Lauderdale,FL,United States of America,33311,II,2,758 km,26.1436193145,-80.1739624517
+Fort Lauderdale,FL,United States of America,33312,II,1,752 km,26.0870470274,-80.1828244619
+Fort Lauderdale,FL,United States of America,33314,I,1,751 km,26.0677788596,-80.2254706833
+Fort Lauderdale,FL,United States of America,33316,II,3,753 km,26.0987727962,-80.1251796132
+Fort Lauderdale,FL,United States of America,33323,II,1,762 km,26.1504289633,-80.3219528809
+Fort Lauderdale,FL,United States of America,33327,I,1,761 km,26.1155966128,-80.4184115069
+Fort Lauderdale,FL,United States of America,33328,II,2,752 km,26.0664732087,-80.2730701385
+Fort Lauderdale,FL,United States of America,33331,I,2,753 km,26.0591642048,-80.370804999
+West Palm Beach,FL,United States of America,33401,II,8,819 km,26.7186464675,-80.0692938041
+West Palm Beach,FL,United States of America,33404,II,2,826 km,26.7814912372,-80.0707853653
+West Palm Beach,FL,United States of America,33405,III,1,813 km,26.6676270594,-80.0592052692
+West Palm Beach,FL,United States of America,33406,II,2,814 km,26.664934026,-80.0908150114
+North Palm Beach,FL,United States of America,33408,II,5,833 km,26.8456949164,-80.0586280682
+West Palm Beach,FL,United States of America,33409,III,4,819 km,26.7160784092,-80.0959288415
+Palm Beach Gardens,FL,United States of America,33410,II,5,834 km,26.8482130636,-80.0874159021
+West Palm Beach,FL,United States of America,33411,II,2,822 km,26.7202484646,-80.1987760386
+West Palm Beach,FL,United States of America,33412,III,1,832 km,26.8133507737,-80.2186177936
+West Palm Beach,FL,United States of America,33413,I,1,815 km,26.6631608303,-80.1554824102
+West Palm Beach,FL,United States of America,33414,II,1,815 km,26.6475737883,-80.2507496295
+West Palm Beach,FL,United States of America,33415,I,1,814 km,26.6598217611,-80.1277339958
+West Palm Beach,FL,United States of America,33417,III,1,821 km,26.7235782892,-80.1248991196
+Palm Beach Gardens,FL,United States of America,33418,II,5,836 km,26.8604434805,-80.1662951118
+Boca Raton,FL,United States of America,33431,II,9,783 km,26.3803012003,-80.1034771767
+Boca Raton,FL,United States of America,33432,III,4,779 km,26.3464014886,-80.0835869288
+Boca Raton,FL,United States of America,33433,II,4,780 km,26.3472766542,-80.1594649807
+Boynton Beach,FL,United States of America,33435,II,3,798 km,26.5239020344,-80.0634259091
+Boynton Beach,FL,United States of America,33437,II,1,798 km,26.5118255461,-80.1492955429
+Deerfield Beach,FL,United States of America,33441,I,1,775 km,26.3110937206,-80.0987218297
+Deerfield Beach,FL,United States of America,33442,II,3,776 km,26.3102656787,-80.1451056763
+Delray Beach,FL,United States of America,33444,II,1,791 km,26.4579603592,-80.0802972121
+Delray Beach,FL,United States of America,33445,III,1,791 km,26.4545711799,-80.1065192177
+Delray Beach,FL,United States of America,33446,II,1,792 km,26.453439466,-80.1857744542
+Lake Worth,FL,United States of America,33449,I,1,808 km,26.5931168489,-80.2322631843
+Jupiter,FL,United States of America,33458,II,6,844 km,26.935412667,-80.1289958205
+Lake Worth,FL,United States of America,33461,I,1,809 km,26.6192511005,-80.090223304
+Lake Worth,FL,United States of America,33462,III,1,804 km,26.5817908117,-80.077121975
+Lake Worth,FL,United States of America,33463,I,1,807 km,26.5954694803,-80.1299277291
+Loxahatchee,FL,United States of America,33470,I,2,833 km,26.7856665985,-80.440352175
+Boynton Beach,FL,United States of America,33472,I,1,802 km,26.5416380977,-80.1882485924
+Palm Beach,FL,United States of America,33480,III,2,816 km,26.696841189,-80.0383422404
+Delray Beach,FL,United States of America,33483,II,3,791 km,26.4616009787,-80.0639003752
+Boca Raton,FL,United States of America,33486,II,2,779 km,26.3473976101,-80.1146545173
+Boca Raton,FL,United States of America,33487,II,5,786 km,26.4091141592,-80.0932350742
+Boca Raton,FL,United States of America,33496,III,1,787 km,26.4090605083,-80.1628293909
+Zephyrhills,FL,United States of America,33541,II,1,1037 km,28.2232888212,-82.2203637089
+Wesley Chapel,FL,United States of America,33545,II,1,1043 km,28.2639322396,-82.2860565337
+Lithia,FL,United States of America,33547,I,1,987 km,27.7750617555,-82.1333937836
+Lutz,FL,United States of America,33549,II,1,1036 km,28.1380175415,-82.4457917482
+Tampa,FL,United States of America,33602,I,2,1017 km,27.9535809106,-82.4565737667
+Tampa,FL,United States of America,33609,I,1,1018 km,27.9431708993,-82.5112194608
+Tampa,FL,United States of America,33634,I,1,1026 km,28.0087289261,-82.546032091
+Saint Petersburg,FL,United States of America,33701,II,6,1006 km,27.7700356035,-82.6366405398
+Saint Petersburg,FL,United States of America,33702,II,1,1013 km,27.8462077468,-82.6352829591
+Saint Petersburg,FL,United States of America,33713,II,1,1009 km,27.788739895,-82.6774232781
+Saint Petersburg,FL,United States of America,33716,II,1,1017 km,27.8765869308,-82.6507448506
+Clearwater,FL,United States of America,33756,II,1,1029 km,27.9444958241,-82.7888228368
+Largo,FL,United States of America,33774,III,1,1025 km,27.8822898223,-82.8262250236
+Lakeland,FL,United States of America,33801,I,1,1007 km,28.041592083,-81.8991919978
+Lakeland,FL,United States of America,33803,I,1,1005 km,28.0111088586,-81.9397377501
+Winter Haven,FL,United States of America,33881,II,1,1003 km,28.0601934239,-81.713114391
+Fort Myers,FL,United States of America,33901,II,3,858 km,26.6183191176,-81.8724665214
+North Fort Myers,FL,United States of America,33903,III,1,875 km,26.7554874068,-81.9370715035
+Fort Myers,FL,United States of America,33907,II,1,853 km,26.5637498388,-81.8716427228
+Cape Coral,FL,United States of America,33909,III,1,869 km,26.6927904453,-81.9458357695
+Fort Myers,FL,United States of America,33912,III,1,848 km,26.5358756436,-81.8241611235
+Fort Myers,FL,United States of America,33916,II,1,859 km,26.631351815,-81.8381547394
+Lehigh Acres,FL,United States of America,33936,I,1,848 km,26.6044373046,-81.6195933882
+Punta Gorda,FL,United States of America,33950,II,2,895 km,26.9099805283,-82.0394917903
+Port Charlotte,FL,United States of America,33952,I,1,905 km,26.991097753,-82.0978801325
+Port Charlotte,FL,United States of America,33953,II,1,911 km,27.0019443072,-82.2140266457
+Sanibel,FL,United States of America,33957,I,1,851 km,26.4524753154,-82.1027316492
+Punta Gorda,FL,United States of America,33982,II,1,885 km,26.9094706588,-81.7707206279
+Cape Coral,FL,United States of America,33990,I,1,862 km,26.6287395203,-81.9470484247
+Naples,FL,United States of America,34108,II,2,818 km,26.2441471082,-81.8060507022
+Naples,FL,United States of America,34112,II,1,802 km,26.1169616224,-81.7438649807
+Naples,FL,United States of America,34114,II,1,781 km,25.9858444455,-81.5499454351
+Naples,FL,United States of America,34117,III,1,793 km,26.1217558877,-81.4885056386
+Naples,FL,United States of America,34119,II,1,816 km,26.2668503646,-81.7146279749
+Bonita Springs,FL,United States of America,34134,II,1,830 km,26.3585485014,-81.830114228
+Ochopee,FL,United States of America,34141,II,1,766 km,25.9814495988,-81.1136350168
+Marco Island,FL,United States of America,34145,III,1,782 km,25.9324918757,-81.6974815184
+Bradenton,FL,United States of America,34209,I,1,978 km,27.4948957451,-82.6381990886
+Bradenton Beach,FL,United States of America,34217,I,1,983 km,27.5081586744,-82.7171971785
+Parrish,FL,United States of America,34219,II,1,973 km,27.5683084817,-82.3239835957
+Palmetto,FL,United States of America,34221,II,1,982 km,27.5797283926,-82.5380847748
+Englewood,FL,United States of America,34223,I,1,915 km,26.9928810019,-82.3438719561
+Sarasota,FL,United States of America,34236,II,1,957 km,27.3237996708,-82.5418165219
+Inverness,FL,United States of America,34450,II,1,1101 km,28.8265377514,-82.2589159436
+Spring Hill,FL,United States of America,34606,I,1,1075 km,28.4678706489,-82.5981997323
+New Port Richey,FL,United States of America,34654,IV,1,1059 km,28.2965614496,-82.6275761989
+Port Richey,FL,United States of America,34668,I,2,1063 km,28.3036131539,-82.7034316013
+Oldsmar,FL,United States of America,34677,I,2,1036 km,28.0540093256,-82.6738419101
+Holiday,FL,United States of America,34690,IV,1,1052 km,28.1919267804,-82.7277660841
+Dunedin,FL,United States of America,34698,I,1,1038 km,28.0285389664,-82.7774708519
+Clermont,FL,United States of America,34711,I,1,1053 km,28.5250636351,-81.7521212588
+Kissimmee,FL,United States of America,34741,III,1,1021 km,28.3046394958,-81.424975192
+Fort Pierce,FL,United States of America,34950,II,1,903 km,27.4450828511,-80.3349954239
+Port Saint Lucie,FL,United States of America,34953,I,3,882 km,27.245689821,-80.3886068191
+Fort Pierce,FL,United States of America,34982,I,1,895 km,27.3768410898,-80.3154064892
+Stuart,FL,United States of America,34994,II,1,875 km,27.2001336767,-80.2563867183
+Hamilton,AL,United States of America,35570,III,1,1873 km,34.1624087935,-87.9871591721
+Andalusia,AL,United States of America,36420,I,1,1535 km,31.311425015,-86.6016439978
+Gallatin,TN,United States of America,37066,III,1,2028 km,36.4014174945,-86.4554322183
+Jonesborough,TN,United States of America,37659,II,1,1904 km,36.2820353885,-82.4939176057
+Shepherdsville,KY,United States of America,40165,I,1,2166 km,37.9782995684,-85.705547636
+Lexington,KY,United States of America,40507,II,1,2139 km,38.0468807573,-84.4959477637
+Barbourville,KY,United States of America,40906,III,1,1997 km,36.8490791388,-83.9449793628
+Bowling Green,KY,United States of America,42101,I,1,2097 km,37.0657699804,-86.4780666843
+Monticello,KY,United States of America,42633,III,1,2014 km,36.7858852673,-84.8166365373
+Powell,OH,United States of America,43065,I,1,2338 km,40.1762844442,-83.0909335607
+Columbus,OH,United States of America,43214,I,1,2324 km,40.0525717756,-83.0198413119
+Cleveland,OH,United States of America,44114,I,1,2465 km,41.5139490231,-81.6743807967
+Strongsville,OH,United States of America,44149,I,1,2445 km,41.3133969989,-81.855503069
+Akron,OH,United States of America,44311,III,1,2414 km,41.0639007968,-81.5208692789
+West Lafayette,IN,United States of America,47906,I,1,2466 km,40.4856150822,-86.9842257616
+Ypsilanti,MI,United States of America,48197,III,1,2567 km,42.1957663269,-83.6265996317
+Port Sulphur,LA,United States of America,70083,II,1,1579 km,29.4694547254,-89.8104847449
+Houma,LA,United States of America,70364,II,2,1655 km,29.634554188,-90.674951993
+Slidell,LA,United States of America,70458,II,1,1638 km,30.260665602,-89.7897579874
+Lafayette,LA,United States of America,70506,II,1,1799 km,30.1958058567,-92.0797765514
+Port Allen,LA,United States of America,70767,II,1,1764 km,30.4752114299,-91.3273937783
+Shreveport,LA,United States of America,71107,I,1,2101 km,32.5915546699,-93.8598550359
+Hot Springs National Park,AR,United States of America,71901,I,1,2189 km,34.5262477824,-92.9722959242
+Conway,AR,United States of America,72032,III,1,2196 km,35.0715684836,-92.3561114724
+Lawton,OK,United States of America,73501,I,1,2563 km,34.5594371237,-98.2790911023
+Houston,TX,United States of America,77019,II,1,2038 km,29.7530684841,-95.4127796401
+Highlands,TX,United States of America,77562,II,1,2012 km,29.8320649146,-95.0477127665
+Austin,TX,United States of America,78745,III,1,2265 km,30.2070123068,-97.7970352006
+Cotton Ground,Saint Thomas Lowland,Saint Kitts and Nevis,,I,1,1724 km,17.17,-62.62
+Cockburn Harbour,South Caicos and East Caicos,Turks and Caicos Islands,,I,1,789 km,21.5,-71.52
+Petare,Miranda,Venezuela,,IV,1,1617 km,10.52,-66.83
+Jamao al Norte,Espaillat,Dominican Republic,,I,1,872 km,19.65,-70.45
+Otra Banda,La Altagracia,Dominican Republic,,I,1,1065 km,18.65,-68.67
+La Romana,La Romana,Dominican Republic,,II,1,1036 km,18.43,-68.97
+Santiago,Santiago,Dominican Republic,,I,1,847 km,19.48,-70.69
+Santo Domingo,Santo Domingo,Dominican Republic,,II,3,937 km,18.48,-69.91
+Guayaquil,Guayas,Ecuador,,I,1,2395 km,-2.21,-79.9
+Nuevo Cuscatlán,La Libertad,El Salvador,,I,1,1291 km,13.65,-89.27
+Alice Town,Biminis,Bahamas,,III,2,702 km,25.74,-79.3
+Nassau,New Providence,Bahamas,,III,3,641 km,25.06,-77.33
+Belize,Belize,Belize,,II,3,1019 km,17.5,-88.19
+Belmopan,Cayo,Belize,,II,1,1087 km,17.25,-88.79
+Orange Walk,Orange Walk,Belize,,III,1,1044 km,18.09,-88.56
+Dangriga,Stann Creek,Belize,,II,1,1037 km,16.97,-88.22
+Road Town,Tortola,British Virgin Islands,,II,1,1492 km,18.43,-64.63
+The Valley,_no region,Anguilla,,I,1,1660 km,18.22,-63.05
+London,Ontario,Canada,,I,1,2621 km,42.97,-81.24
+Bodden Town,Grand Cayman,Cayman Islands,,V,18,263 km,19.28,-81.26
+George Town,Grand Cayman,Cayman Islands,,V,154,277 km,19.28,-81.39
+West Bay,Grand Cayman,Cayman Islands,,V,34,280 km,19.38,-81.42
+East End,_no region,Cayman Islands,,VI,9,249 km,19.3,-81.12
+North Side,_no region,Cayman Islands,,V,6,257 km,19.35,-81.2
+Chisec,Alta Verapaz,Guatemala,,I,1,1286 km,15.82,-90.28
+Puerto Barrios,Izabal,Guatemala,,II,1,1122 km,15.73,-88.6
+Coatepeque,Quezaltenango,Guatemala,,I,1,1490 km,14.7,-91.87
+Asile,GrandʿAnse,Haiti,,II,1,574 km,18.38,-73.42
+Delmas,Ouest,Haiti,,I,1,688 km,18.55,-72.28
+Petit Goâve,Ouest,Haiti,,II,1,630 km,18.43,-72.86
+Port-au-Prince,Ouest,Haiti,,II,1,682 km,18.54,-72.34
+Pétionville,Ouest,Haiti,,I,1,688 km,18.52,-72.29
+Coteaux,Sud,Haiti,,II,1,516 km,18.2,-74.03
+Armenta,Cortés,Honduras,,II,1,1078 km,15.5,-88.05
+Hayes,Clarendon,Jamaica,,II,1,233 km,17.88,-77.25
+May Pen,Clarendon,Jamaica,,IV,3,226 km,17.97,-77.24
+Osbourne Store,Clarendon,Jamaica,,V,1,220 km,17.97,-77.33
+Green Island,Hanover,Jamaica,,VII,2,117 km,18.38,-78.58
+Hopewell,Hanover,Jamaica,,III,2,138 km,18.25,-78.3
+Lucea,Hanover,Jamaica,,V,7,125 km,18.44,-78.18
+Sandy Bay,Hanover,Jamaica,,IV,3,128 km,18.45,-78.1
+Mona,Kingston,Jamaica,,IV,10,265 km,18,-76.73
+Alligator Pond,Manchester,Jamaica,,IV,1,212 km,17.87,-77.57
+Mandeville,Manchester,Jamaica,,V,2,203 km,18.05,-77.48
+Hope Bay,Portland,Jamaica,,III,1,267 km,18.2,-76.57
+Port Antonio,Portland,Jamaica,,II,1,287 km,18.16,-76.38
+Constant Spring,Saint Andrew,Jamaica,,III,15,258 km,18.05,-76.78
+Gordon Town,Saint Andrew,Jamaica,,IV,2,264 km,18.05,-76.7
+Half Way Tree,Saint Andrew,Jamaica,,IV,39,260 km,18,-76.79
+Kingston,Saint Andrew,Jamaica,,IV,11,260 km,17.99,-76.8
+Stony Hill,Saint Andrew,Jamaica,,III,1,256 km,18.08,-76.78
+Bamboo,Saint Ann,Jamaica,,IV,1,195 km,18.38,-77.26
+Claremont,Saint Ann,Jamaica,,IV,2,203 km,18.38,-77.17
+Ocho Rios,Saint Ann,Jamaica,,III,3,206 km,18.42,-77.11
+Runaway Bay,Saint Ann,Jamaica,,III,3,185 km,18.45,-77.33
+Saint Annʿs Bay,Saint Ann,Jamaica,,IV,4,195 km,18.44,-77.22
+Bog Walk,Saint Catherine,Jamaica,,IV,1,234 km,18.1,-77.02
+Old Harbour,Saint Catherine,Jamaica,,II,1,241 km,17.92,-77.1
+Portmore,Saint Catherine,Jamaica,,V,7,256 km,17.95,-76.88
+Spanish Town,Saint Catherine,Jamaica,,IV,7,247 km,18,-76.95
+Bull Savanna,Saint Elizabeth,Jamaica,,V,1,210 km,17.88,-77.59
+Lacovia,Saint Elizabeth,Jamaica,,V,1,183 km,18.07,-77.75
+Malvern,Saint Elizabeth,Jamaica,,IV,1,194 km,17.97,-77.72
+Santa Cruz,Saint Elizabeth,Jamaica,,IV,1,185 km,18.07,-77.72
+Southfield,Saint Elizabeth,Jamaica,,III,4,205 km,17.88,-77.67
+Anchovy,Saint James,Jamaica,,IV,1,143 km,18.4,-77.92
+Cambridge,Saint James,Jamaica,,IV,2,152 km,18.32,-77.89
+Maroon Town,Saint James,Jamaica,,III,1,156 km,18.35,-77.79
+Montego Bay,Saint James,Jamaica,,IV,48,137 km,18.47,-77.92
+Gayle,Saint Mary,Jamaica,,IV,2,221 km,18.33,-77
+Port Maria,Saint Mary,Jamaica,,V,1,228 km,18.37,-76.89
+Easington,Saint Thomas,Jamaica,,IV,1,281 km,17.92,-76.6
+Clarkʿs Town,Trelawney,Jamaica,,III,1,167 km,18.42,-77.57
+Duncans,Trelawney,Jamaica,,II,5,167 km,18.47,-77.53
+Falmouth,Trelawney,Jamaica,,III,5,155 km,18.49,-77.66
+Wakefield,Trelawney,Jamaica,,VI,5,156 km,18.42,-77.72
+Bethel Town,Westmoreland,Jamaica,,IV,2,150 km,18.3,-77.95
+Grange Hill,Westmoreland,Jamaica,,IV,1,130 km,18.37,-78.2
+Little London,Westmoreland,Jamaica,,III,2,137 km,18.3,-78.2
+Negril,Westmoreland,Jamaica,,V,13,130 km,18.32,-78.33
+Petersfield,Westmoreland,Jamaica,,IV,4,148 km,18.25,-78.07
+White House,Westmoreland,Jamaica,,IV,2,170 km,18.08,-77.97
+Campeche,Campeche,Mexico,,II,1,1235 km,19.85,-90.53
+Carmen,Campeche,Mexico,,II,1,1379 km,18.63,-91.83
+Tesistán,Jalisco,Mexico,,III,1,2590 km,20.78,-103.48
+Los Reyes,México,Mexico,,II,1,2124 km,19.36,-98.98
+Bonfil,Quintana Roo,Mexico,,III,8,867 km,21.06,-86.87
+Cancún,Quintana Roo,Mexico,,III,6,865 km,21.17,-86.83
+Chetumal,Quintana Roo,Mexico,,III,3,1009 km,18.5,-88.29
+Cozumel,Quintana Roo,Mexico,,II,1,866 km,20.51,-86.95
+Playa del Carmen,Quintana Roo,Mexico,,II,11,880 km,20.62,-87.07
+Tulum,Quintana Roo,Mexico,,II,2,917 km,20.22,-87.47
+Villahermosa,Tabasco,Mexico,,II,2,1502 km,17.98,-92.92
+Ciego de Ávila,Ciego de Ávila,Cuba,,II,1,269 km,21.85,-78.76
+Cienfuegos,Cienfuegos,Cuba,,III,1,351 km,22.16,-80.45
+Rodas,Cienfuegos,Cuba,,III,1,375 km,22.35,-80.56
+Havanna,Ciudad de la Habana,Cuba,,II,5,557 km,23.13,-82.39
+Bayamo,Granma,Cuba,,V,1,245 km,20.38,-76.65
+Guisa,Granma,Cuba,,IV,1,250 km,20.26,-76.54
+Manzanillo,Granma,Cuba,,V,1,200 km,20.35,-77.12
+Guantánamo,Guantánamo,Cuba,,III,10,379 km,20.15,-75.22
+Santa Fé,Isla de la Juventud,Cuba,,IV,1,477 km,21.69,-82.65
+Cárdenas,Matanzas,Cuba,,I,1,476 km,23.05,-81.21
+Varadero,Matanzas,Cuba,,IV,1,491 km,23.12,-81.36
+Trinidad,Sancti Spíritus,Cuba,,V,1,293 km,21.8,-79.98
+Santiago de Cuba,Santiago de Cuba,Cuba,,IV,3,315 km,20.01,-75.82
+Manicaragua,Villa Clara,Cuba,,III,1,328 km,22.15,-79.97

@@ -1,0 +1,132 @@
+City,State/Region,Country,Zip Code,MMI,Responses,Distance,Latitude,Longitude
+Niš,Central Serbia,Serbia and Montenegro,,III,1,445 km,43.33,21.9
+Pinosava,Central Serbia,Serbia and Montenegro,,II,1,634 km,44.7,20.48
+Vranje,Central Serbia,Serbia and Montenegro,,III,1,385 km,42.57,21.91
+Kuşadası,Aydın,Turkey,,III,1,313 km,37.87,27.26
+Ayvalık,Balıkesir,Turkey,,III,1,154 km,39.33,26.69
+Balıkesir,Balıkesir,Turkey,,III,1,224 km,39.65,27.88
+Bandırma,Balıkesir,Turkey,,IV,2,220 km,40.37,27.98
+Edremit,Balıkesir,Turkey,,V,1,158 km,39.61,27.02
+Gömeç,Balıkesir,Turkey,,II,1,159 km,39.39,26.84
+Bursa,Bursa,Turkey,,III,5,314 km,40.2,29.08
+Mudanya,Bursa,Turkey,,III,1,296 km,40.38,28.88
+Düzce,Düzce,Turkey,,II,1,491 km,40.85,31.15
+Edirne,Edirne,Turkey,,VI,2,184 km,41.69,26.56
+Keşan,Edirne,Turkey,,V,1,123 km,40.87,26.63
+Eskişehir,Eskişehir,Turkey,,II,1,441 km,39.79,30.52
+İncesu,Kayseri,Turkey,,II,1,640 km,39.92,32.88
+Gebze,Kocaeli,Turkey,,IV,3,348 km,40.81,29.44
+Gölcük,Kocaeli,Turkey,,III,1,378 km,40.72,29.82
+İzmit,Kocaeli,Turkey,,III,1,388 km,40.77,29.93
+Kütahya,Kütahya,Turkey,,IV,1,404 km,39.42,29.98
+Lüleburgaz,Kırklareli,Turkey,,II,1,208 km,41.42,27.36
+Gördes,Manisa,Turkey,,IV,1,291 km,38.93,28.29
+Manisa,Manisa,Turkey,,III,2,254 km,38.63,27.43
+Bodrum,Muğla,Turkey,,II,1,402 km,37.04,27.43
+Tekirdağ,Tekirdağ,Turkey,,VII,2,196 km,40.98,27.52
+Çerkezköy,Tekirdağ,Turkey,,VI,2,246 km,41.29,28
+Uşak,Uşak,Turkey,,IV,1,389 km,38.68,29.41
+Çınarcik,Yalova,Turkey,,III,1,318 km,40.64,29.12
+Biga,Çanakkale,Turkey,,IV,1,157 km,40.24,27.24
+Bozcaada,Çanakkale,Turkey,,VII,1,76 km,39.84,26.07
+Eceabat,Çanakkale,Turkey,,V,1,83 km,40.18,26.36
+Gökçeada,Çanakkale,Turkey,,II,1,47 km,40.18,25.92
+Çanakkale,Çanakkale,Turkey,,VII,4,88 km,40.16,26.41
+Büyükçekmece,İstanbul,Turkey,,IV,11,297 km,41,28.78
+Esenyurt,İstanbul,Turkey,,V,4,289 km,41.03,28.67
+Kavakli,İstanbul,Turkey,,V,1,265 km,41.11,28.34
+Kiraç,İstanbul,Turkey,,IV,2,288 km,41.11,28.63
+Kumburgaz,İstanbul,Turkey,,V,1,274 km,41.04,28.48
+Selimpaşa,İstanbul,Turkey,,IV,1,265 km,41.07,28.35
+Sultanbeyli,İstanbul,Turkey,,III,13,338 km,40.92,29.3
+Yakuplu,İstanbul,Turkey,,III,1,285 km,40.99,28.64
+İstanbul,İstanbul,Turkey,,III,34,318 km,41.1,29
+Aliağa,İzmir,Turkey,,II,1,214 km,38.8,26.98
+Bergama,İzmir,Turkey,,II,1,199 km,39.13,27.17
+Seferihisar,İzmir,Turkey,,IV,1,263 km,38.2,26.84
+Tire,İzmir,Turkey,,IV,1,317 km,38.09,27.73
+Urla,İzmir,Turkey,,II,1,247 km,38.33,26.76
+İzmir,İzmir,Turkey,,III,10,256 km,38.43,27.15
+Gülnar,İçel,Turkey,,II,1,826 km,36.34,33.4
+Tirana,Tirana,Albania,,II,1,483 km,41.33,19.82
+Gotse Delchev,Blagoevgrad,Bulgaria,,III,1,199 km,41.58,23.74
+Burgas,Burgas,Bulgaria,,II,1,301 km,42.51,27.47
+Bazardzhik,Dobrič,Bulgaria,,III,2,417 km,43.58,27.83
+Jambol,Jambol,Bulgaria,,VI,1,263 km,42.5,26.52
+Kărdžali,Kărdžali,Bulgaria,,VII,1,151 km,41.65,25.37
+Velingrad,Pazardžik,Bulgaria,,IV,1,225 km,42.03,24
+Plovdiv,Plovdiv,Bulgaria,,IV,2,213 km,42.15,24.75
+Sadovo,Plovdiv,Bulgaria,,III,1,208 km,42.14,24.95
+Ruse,Ruse,Bulgaria,,III,2,398 km,43.85,25.98
+Sofia,Sofija grad,Bulgaria,,IV,12,318 km,42.69,23.31
+Botevgrad,Sofijska oblast,Bulgaria,,III,1,321 km,42.92,23.78
+Ihtiman,Sofijska oblast,Bulgaria,,III,1,273 km,42.45,23.83
+Kostenec,Sofijska oblast,Bulgaria,,III,2,258 km,42.31,23.87
+Măgliž,Stara Zagora,Bulgaria,,III,1,258 km,42.61,25.54
+Stara Zagora,Stara Zagora,Bulgaria,,V,1,237 km,42.42,25.63
+Varna,Varna,Bulgaria,,II,2,385 km,43.21,27.9
+Šumen,Šumen,Bulgaria,,III,1,356 km,43.28,26.93
+Amaroúsion,Attikí,Greece,,II,1,284 km,38.05,23.8
+Aryiroúpoli,Attikí,Greece,,IV,1,300 km,37.9,23.75
+Kalamákion,Attikí,Greece,,II,1,300 km,37.92,23.72
+Khalándrion,Attikí,Greece,,II,1,286 km,38.03,23.8
+Néa Erithraía,Attikí,Greece,,IV,1,278 km,38.1,23.82
+Néa Mákri,Attikí,Greece,,II,1,273 km,38.08,23.98
+Peristérion,Attikí,Greece,,II,1,291 km,38.02,23.7
+Vrilíssia,Attikí,Greece,,IV,2,284 km,38.03,23.83
+Áyios Dimítrios,Attikí,Greece,,III,1,296 km,37.89,23.89
+Falirákion,Dodekánisos,Greece,,V,1,501 km,36.36,28.21
+Xiropótamos,Dráma,Greece,,VI,1,148 km,41.2,24.1
+Arnaía,Halkidikí,Greece,,III,1,154 km,40.48,23.59
+Néa Potídaia,Halkidikí,Greece,,II,1,175 km,40.2,23.33
+Rentína,Kardítsa,Greece,,II,1,322 km,39.06,21.98
+Amigdaleón,Kavála,Greece,,IV,1,114 km,40.97,24.37
+Palaión Tsiflíkion,Kavála,Greece,,IV,2,111 km,40.9,24.35
+Potamiá,Kavála,Greece,,V,1,73 km,40.72,24.73
+Thásos,Kavála,Greece,,IV,2,78 km,40.77,24.72
+Kilkís,Kilkís,Greece,,III,1,226 km,40.99,22.87
+Lárisa,Lárisa,Greece,,VI,1,263 km,39.64,22.42
+Terpsithéa,Lárisa,Greece,,IV,1,268 km,39.62,22.37
+Atsikí,Lésvos,Greece,,IX,1,40 km,39.95,25.22
+Mitilíni,Lésvos,Greece,,IV,1,164 km,39.11,26.55
+Míthimna,Lésvos,Greece,,II,1,122 km,39.37,26.17
+Variá,Lésvos,Greece,,IV,1,168 km,39.08,26.57
+Kateríni,Piería,Greece,,II,1,245 km,40.27,22.5
+Komotiní,Rodópi,Greece,,VI,1,92 km,41.12,25.4
+Leukón,Sérrai,Greece,,IV,1,183 km,41.1,23.5
+Valtotópion,Sérrai,Greece,,IV,1,170 km,41,23.6
+Áno Poróia,Voria Ellada,Greece,,II,1,227 km,41.28,23.03
+Ambelókipoi,Thessaloníki,Greece,,IV,1,213 km,40.66,22.92
+Kalamariá,Thessaloníki,Greece,,IV,1,209 km,40.58,22.95
+Kalokhórion,Thessaloníki,Greece,,VI,2,218 km,40.64,22.86
+Lankadás,Thessaloníki,Greece,,IV,1,186 km,40.63,23.24
+Mesimérion,Thessaloníki,Greece,,V,1,203 km,40.42,23
+Néa Mesimvría,Thessaloníki,Greece,,II,1,228 km,40.75,22.76
+Peúka,Thessaloníki,Greece,,IV,1,211 km,40.7,22.96
+Pilaía,Thessaloníki,Greece,,III,1,206 km,40.6,22.99
+Staurós,Thessaloníki,Greece,,III,1,149 km,40.66,23.7
+Thessaloníki,Thessaloníki,Greece,,III,2,211 km,40.64,22.94
+Triandría,Thessaloníki,Greece,,II,1,208 km,40.62,22.97
+Alexandroúpoli,Évros,Greece,,VI,5,74 km,40.85,25.87
+Didimótikhon,Évros,Greece,,VIII,1,150 km,41.35,26.5
+Kamariótissa,Évros,Greece,,VIII,2,23 km,40.48,25.47
+Néos Pírgos,Évros,Greece,,VII,1,163 km,41.5,26.5
+Orestiás,Évros,Greece,,III,1,165 km,41.5,26.53
+Ayía Ánna,Kentriki Ellada,Greece,,III,1,233 km,38.86,23.4
+Skíros,Évvoia,Greece,,I,1,170 km,38.9,24.56
+Azur,Tel Aviv,Israel,,II,1,1248 km,32.02,34.8
+Lecce,Apulien,Italy,,III,1,614 km,40.36,18.16
+Zarevo Selo,Delčevo,Macedonia,,V,1,289 km,41.97,22.76
+Negotino,Negotino,Macedonia,,IV,1,308 km,41.5,22.1
+Sopište,Skopje,Macedonia,,II,1,382 km,41.96,21.41
+Kukliš,Strumica,Macedonia,,IV,1,260 km,41.4,22.67
+Mărăcineni,Argeş,Romania,,III,1,513 km,44.9,24.9
+Brăila,Brăila,Romania,,II,2,593 km,45.28,27.97
+Bucharest,Bukarest,Romania,,III,6,464 km,44.44,26.1
+Cluj-Napoca,Cluj,Romania,,II,1,735 km,46.78,23.59
+Giurgiu,Giurgiu,Romania,,IV,1,403 km,43.9,25.97
+Chiajna,Ilfov,Romania,,II,2,466 km,44.47,25.97
+Dobroeşti,Ilfov,Romania,,III,3,466 km,44.45,26.18
+Popeşti-Leordeni,Ilfov,Romania,,III,4,458 km,44.38,26.17
+Călmăţuiu (Cârligaţi),Teleorman,Romania,,II,1,411 km,43.97,24.87
+Nanov,Teleorman,Romania,,II,1,412 km,44,25.3

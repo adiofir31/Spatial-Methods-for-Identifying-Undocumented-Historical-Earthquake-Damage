@@ -1,0 +1,596 @@
+City,State/Region,Country,Zip Code,MMI,Responses,Distance,Latitude,Longitude
+Tahoe National Forest,CA,United States of America,00029,IV,1,180 km,39.5126230984,-121.058574938
+South Alpine County,CA,United States of America,00044,II,1,225 km,38.4761807535,-119.752897096
+Mendocino NTL Forest,CA,United States of America,00048,III,7,140 km,39.4064932572,-122.843087904
+Eldorado NTL Forest,CA,United States of America,00051,II,1,191 km,38.9361798736,-120.319942615
+Channel Islands National PK,CA,United States of America,00057,III,1,522 km,34.0045857543,-119.725262522
+New Plymouth,ID,United States of America,83655,II,1,788 km,43.9539837421,-116.792826641
+Payette,ID,United States of America,83661,II,1,803 km,44.0794242509,-116.699478437
+Glenbrook,NV,United States of America,89413,II,1,228 km,39.0324537478,-119.903621824
+Lovelock,NV,United States of America,89419,II,1,397 km,40.3622040942,-118.623075195
+Minden,NV,United States of America,89423,II,1,255 km,39.0094510924,-119.562086354
+Sparks,NV,United States of America,89436,II,1,273 km,39.6022820496,-119.707274422
+Incline Village,NV,United States of America,89451,II,1,239 km,39.304841292,-119.935614859
+Reno,NV,United States of America,89508,II,1,271 km,39.7994960561,-119.923799475
+Reno,NV,United States of America,89512,II,1,264 km,39.5553822391,-119.801165928
+Reno,NV,United States of America,89521,III,1,262 km,39.3850735022,-119.686126294
+Reno,NV,United States of America,89523,III,2,253 km,39.5490517233,-119.942425913
+Carson City,NV,United States of America,89701,II,1,252 km,39.1385469539,-119.660049201
+Carson City,NV,United States of America,89703,II,1,238 km,39.1519162257,-119.844046285
+Los Angeles,CA,United States of America,90025,I,1,579 km,34.0450097269,-118.446640587
+Los Angeles,CA,United States of America,90035,II,1,581 km,34.0517930945,-118.383658114
+Los Angeles,CA,United States of America,90043,II,1,590 km,33.9887240668,-118.335094215
+El Segundo,CA,United States of America,90245,II,1,593 km,33.9170086764,-118.402142054
+Venice,CA,United States of America,90291,I,1,582 km,33.9939764023,-118.463740932
+Norwalk,CA,United States of America,90650,I,1,611 km,33.9069637577,-118.082817796
+Stanton,CA,United States of America,90680,II,1,625 km,33.8011263413,-117.994887945
+Harbor City,CA,United States of America,90710,I,1,609 km,33.798138066,-118.299263469
+Carson,CA,United States of America,90745,V,2,609 km,33.8225753513,-118.262102669
+Long Beach,CA,United States of America,90804,I,1,618 km,33.7827735966,-118.149743621
+Monrovia,CA,United States of America,91016,II,2,594 km,34.1664748231,-117.982908775
+Chatsworth,CA,United States of America,91311,I,1,548 km,34.2856213545,-118.604515487
+Woodland Hills,CA,United States of America,91364,II,1,561 km,34.1550610547,-118.595389231
+Santa Clarita,CA,United States of America,91390,II,1,539 km,34.5253294801,-118.394343428
+North Hollywood,CA,United States of America,91601,I,1,572 km,34.168208787,-118.372059098
+North Hollywood,CA,United States of America,91605,I,1,567 km,34.2067126037,-118.401099504
+Claremont,CA,United States of America,91711,II,1,613 km,34.1266937325,-117.715509316
+Covina,CA,United States of America,91723,II,1,607 km,34.0849423802,-117.886604734
+Rancho Cucamonga,CA,United States of America,91730,I,1,624 km,34.0996175563,-117.579542111
+Rancho Cucamonga,CA,United States of America,91739,I,1,624 km,34.135237188,-117.525563436
+Alhambra,CA,United States of America,91801,I,1,592 km,34.0905640791,-118.12816441
+Oceanside,CA,United States of America,92056,I,1,718 km,33.2014758499,-117.289315772
+San Diego,CA,United States of America,92126,II,1,752 km,32.9124891876,-117.143006881
+San Diego,CA,United States of America,92135,II,1,767 km,32.699134999,-117.20779936
+Indio,CA,United States of America,92203,II,1,738 km,33.7517583205,-116.241723548
+Joshua Tree,CA,United States of America,92252,I,1,704 km,34.1566779859,-116.288023465
+Palm Desert,CA,United States of America,92260,II,1,732 km,33.6890242816,-116.397060697
+Rancho Mirage,CA,United States of America,92270,II,1,725 km,33.7671512149,-116.422775835
+Bloomington,CA,United States of America,92316,I,1,639 km,34.0592198055,-117.393338293
+Fontana,CA,United States of America,92336,I,1,628 km,34.1352054936,-117.462098185
+San Jacinto,CA,United States of America,92583,II,1,690 km,33.7928153426,-116.919476933
+Irvine,CA,United States of America,92606,II,1,645 km,33.6861695704,-117.816861013
+Irvine,CA,United States of America,92612,II,1,647 km,33.6603612083,-117.826102104
+Costa Mesa,CA,United States of America,92627,I,1,643 km,33.6481914604,-117.920343388
+Lake Forest,CA,United States of America,92630,II,1,656 km,33.6460770575,-117.685681724
+Orange,CA,United States of America,92867,I,1,634 km,33.8154724057,-117.823929269
+Placentia,CA,United States of America,92870,I,1,626 km,33.8808887078,-117.855285664
+Yorba Linda,CA,United States of America,92886,II,1,628 km,33.8966746216,-117.794755653
+Ventura,CA,United States of America,93001,II,1,506 km,34.3480055188,-119.326420083
+Camarillo,CA,United States of America,93010,I,1,529 km,34.229149675,-119.075762949
+Oxnard,CA,United States of America,93030,II,1,526 km,34.2073730061,-119.180036437
+Oxnard,CA,United States of America,93036,III,1,523 km,34.2377206345,-119.173465601
+Simi Valley,CA,United States of America,93063,I,1,544 km,34.2882593211,-118.688958163
+Santa Barbara,CA,United States of America,93101,II,1,481 km,34.4191407254,-119.707077041
+Arvin,CA,United States of America,93203,III,1,464 km,35.1094117394,-118.828581916
+Corcoran,CA,United States of America,93212,III,1,344 km,36.0527131465,-119.538044446
+Lost Hills,CA,United States of America,93249,IV,1,360 km,35.6423794773,-119.838188405
+Visalia,CA,United States of America,93291,III,1,330 km,36.3901316913,-119.369413997
+Visalia,CA,United States of America,93292,II,1,351 km,36.2543183543,-119.211294986
+Bakersfield,CA,United States of America,93307,II,1,449 km,35.2346908444,-118.915503753
+Bakersfield,CA,United States of America,93311,II,1,437 km,35.1892048266,-119.181328771
+Los Osos,CA,United States of America,93402,II,1,351 km,35.2867781419,-120.828224515
+San Luis Obispo,CA,United States of America,93405,I,1,360 km,35.2164045624,-120.759363513
+Atascadero,CA,United States of America,93422,II,1,338 km,35.461913417,-120.681063363
+Lompoc,CA,United States of America,93436,II,1,436 km,34.604909261,-120.39336214
+Morro Bay,CA,United States of America,93442,II,1,340 km,35.4034865503,-120.800373375
+Paso Robles,CA,United States of America,93446,I,2,317 km,35.6535983591,-120.735081918
+San Miguel,CA,United States of America,93451,II,1,306 km,35.8668335429,-120.512091169
+Santa Maria,CA,United States of America,93454,II,1,409 km,34.9297936153,-120.23666866
+Santa Maria,CA,United States of America,93455,I,1,413 km,34.824132643,-120.393680076
+Bishop,CA,United States of America,93514,III,1,354 km,37.4762712635,-118.400747511
+Caliente,CA,United States of America,93518,IV,1,468 km,35.3593329864,-118.446845255
+Lone Pine,CA,United States of America,93545,II,1,467 km,35.8317543131,-117.981662504
+Mammoth Lakes,CA,United States of America,93546,II,1,306 km,37.6583157092,-118.898845011
+Palmdale,CA,United States of America,93550,II,1,562 km,34.4863249168,-118.074218856
+Pearblossom,CA,United States of America,93553,II,1,576 km,34.453833687,-117.8890592
+Ridgecrest,CA,United States of America,93555,I,1,515 km,35.6917311746,-117.449167256
+Tehachapi,CA,United States of America,93561,III,1,480 km,35.1543335043,-118.504210742
+Clovis,CA,United States of America,93611,II,1,279 km,36.8281096246,-119.679892507
+Clovis,CA,United States of America,93612,I,1,277 km,36.8145732978,-119.711295174
+Coarsegold,CA,United States of America,93614,I,1,253 km,37.1993934772,-119.738284717
+Dunlap,CA,United States of America,93621,I,1,332 km,36.7389730541,-119.047573764
+Kings Canyon National PK,CA,United States of America,93633,II,1,352 km,36.8450962692,-118.720359614
+Los Banos,CA,United States of America,93635,II,1,181 km,36.9813224875,-120.971735405
+North Fork,CA,United States of America,93643,I,1,273 km,37.2705348133,-119.445005125
+Fresno,CA,United States of America,93703,II,1,277 km,36.7689268739,-119.762042375
+Fresno,CA,United States of America,93705,II,1,271 km,36.786815672,-119.828351234
+Fresno,CA,United States of America,93711,I,2,267 km,36.8350611647,-119.830590641
+Salinas,CA,United States of America,93901,I,1,182 km,36.6610806988,-121.653922658
+Salinas,CA,United States of America,93906,II,1,176 km,36.7246845946,-121.627630026
+Salinas,CA,United States of America,93907,I,2,170 km,36.775878511,-121.658003087
+Salinas,CA,United States of America,93908,III,3,190 km,36.601467433,-121.587110997
+Big sur,CA,United States of America,93920,II,1,246 km,36.083362228,-121.544969461
+Carmel,CA,United States of America,93923,II,4,204 km,36.4194862007,-121.827143358
+Carmel Valley,CA,United States of America,93924,II,2,210 km,36.3982582949,-121.632213161
+King City,CA,United States of America,93930,II,2,248 km,36.2099928278,-121.063653651
+Marina,CA,United States of America,93933,II,2,177 km,36.6772721801,-121.784992477
+Monterey,CA,United States of America,93940,II,2,186 km,36.5827434701,-121.841088555
+Pacific Grove,CA,United States of America,93950,I,1,180 km,36.6192274914,-121.925645778
+Pebble Beach,CA,United States of America,93953,II,1,184 km,36.5854855796,-121.943668448
+Seaside,CA,United States of America,93955,I,1,181 km,36.6273881233,-121.820038588
+Belmont,CA,United States of America,94002,III,77,78 km,37.5135678529,-122.297842297
+Brisbane,CA,United States of America,94005,III,13,60 km,37.687717753,-122.412156905
+Burlingame,CA,United States of America,94010,IV,101,72 km,37.567638575,-122.366305015
+Daly City,CA,United States of America,94014,IV,38,61 km,37.6776116036,-122.438257004
+Daly City,CA,United States of America,94015,IV,84,62 km,37.6808059301,-122.480422578
+Half Moon Bay,CA,United States of America,94019,IV,60,82 km,37.486937123,-122.414603654
+La Honda,CA,United States of America,94020,III,15,103 km,37.2936293599,-122.246103474
+Los Altos,CA,United States of America,94022,III,46,95 km,37.3667865561,-122.147837967
+Los Altos,CA,United States of America,94024,III,49,98 km,37.3472547755,-122.103450476
+Menlo Park,CA,United States of America,94025,III,150,86 km,37.4463637453,-122.186041488
+Atherton,CA,United States of America,94027,IV,15,85 km,37.4530726583,-122.204217004
+Portola Valley,CA,United States of America,94028,III,31,94 km,37.374434591,-122.216135576
+Millbrae,CA,United States of America,94030,IV,36,69 km,37.5999183576,-122.40298187
+Mountain View,CA,United States of America,94035,III,1,92 km,37.416529261,-122.050347743
+Moss Beach,CA,United States of America,94038,IV,24,76 km,37.5471212681,-122.498231876
+Mountain View,CA,United States of America,94040,III,97,95 km,37.3803257432,-122.085468091
+Mountain View,CA,United States of America,94041,III,67,94 km,37.3884190311,-122.075808652
+Mountain View,CA,United States of America,94043,III,105,91 km,37.4186501185,-122.076805997
+Pacifica,CA,United States of America,94044,III,105,70 km,37.6045298737,-122.482164108
+Pescadero,CA,United States of America,94060,IV,6,117 km,37.1656582586,-122.330051018
+Redwood City,CA,United States of America,94061,IV,107,84 km,37.4617485074,-122.236471123
+Redwood City,CA,United States of America,94062,III,108,90 km,37.4076638109,-122.303813288
+Redwood City,CA,United States of America,94063,III,31,80 km,37.505534032,-122.210320418
+Redwood City,CA,United States of America,94065,IV,43,76 km,37.5360085117,-122.246645777
+San Bruno,CA,United States of America,94066,IV,77,67 km,37.6234575836,-122.434442339
+San Carlos,CA,United States of America,94070,III,85,80 km,37.4956177005,-122.270806784
+San Gregorio,CA,United States of America,94074,III,1,102 km,37.2946174603,-122.368584454
+South San Francisco,CA,United States of America,94080,IV,65,63 km,37.65477424,-122.422257321
+Sunnyvale,CA,United States of America,94085,III,44,96 km,37.3879625448,-122.015437762
+Sunnyvale,CA,United States of America,94086,III,91,97 km,37.3715601924,-122.023814361
+Sunnyvale,CA,United States of America,94087,II,81,99 km,37.3511799729,-122.036982745
+Sunnyvale,CA,United States of America,94089,III,41,92 km,37.4246122205,-122.016134078
+San Francisco,CA,United States of America,94102,IV,78,50 km,37.7795327685,-122.419606391
+San Francisco,CA,United States of America,94103,IV,138,51 km,37.7731288064,-122.411274893
+San Francisco,CA,United States of America,94104,IV,8,48 km,37.7915526484,-122.402003595
+San Francisco,CA,United States of America,94105,III,30,49 km,37.7885713861,-122.393818386
+San Francisco,CA,United States of America,94107,III,143,51 km,37.7648450669,-122.394608669
+San Francisco,CA,United States of America,94108,IV,31,49 km,37.7917397401,-122.408525971
+San Francisco,CA,United States of America,94109,IV,147,49 km,37.7930720881,-122.421238911
+San Francisco,CA,United States of America,94110,IV,280,53 km,37.7497940107,-122.415347766
+San Francisco,CA,United States of America,94111,III,19,48 km,37.7983178163,-122.399489471
+San Francisco,CA,United States of America,94112,III,113,57 km,37.7204624906,-122.443455038
+San Francisco,CA,United States of America,94114,IV,209,53 km,37.7580539375,-122.435742305
+San Francisco,CA,United States of America,94115,IV,79,50 km,37.7858951001,-122.437453444
+San Francisco,CA,United States of America,94116,IV,112,55 km,37.7446010014,-122.48655692
+San Francisco,CA,United States of America,94117,IV,212,51 km,37.7706446163,-122.443293351
+San Francisco,CA,United States of America,94118,IV,141,51 km,37.7818712131,-122.461211306
+San Francisco,CA,United States of America,94121,IV,125,52 km,37.7798657144,-122.494688449
+San Francisco,CA,United States of America,94122,IV,219,53 km,37.7628768326,-122.485058175
+San Francisco,CA,United States of America,94123,IV,82,48 km,37.8007843899,-122.436373624
+San Francisco,CA,United States of America,94124,III,22,55 km,37.7316321822,-122.385336477
+San Francisco,CA,United States of America,94127,III,60,55 km,37.7353467968,-122.459866554
+San Francisco,CA,United States of America,94128,IV,2,67 km,37.6208624629,-122.382871255
+San Francisco,CA,United States of America,94129,III,17,49 km,37.797382798,-122.466377464
+San Francisco,CA,United States of America,94130,III,7,45 km,37.8206402608,-122.369605525
+San Francisco,CA,United States of America,94131,III,150,54 km,37.7461749716,-122.443755472
+San Francisco,CA,United States of America,94132,IV,40,57 km,37.7218737448,-122.486382201
+San Francisco,CA,United States of America,94133,III,45,47 km,37.8037830638,-122.411291997
+San Francisco,CA,United States of America,94134,IV,26,56 km,37.7190494948,-122.411619072
+San Francisco,CA,United States of America,94158,IV,17,51 km,37.7707467865,-122.390831943
+Palo Alto,CA,United States of America,94301,III,72,87 km,37.444012586,-122.150204936
+Palo Alto,CA,United States of America,94303,III,61,86 km,37.4540850883,-122.121923924
+Palo Alto,CA,United States of America,94304,III,21,92 km,37.3990962354,-122.172460116
+Stanford,CA,United States of America,94305,III,37,89 km,37.4244355981,-122.166036396
+Palo Alto,CA,United States of America,94306,III,84,90 km,37.4155871746,-122.129213588
+San Mateo,CA,United States of America,94401,IV,67,72 km,37.5742773058,-122.319331167
+San Mateo,CA,United States of America,94402,III,73,78 km,37.5154816701,-122.329756499
+San Mateo,CA,United States of America,94403,IV,118,75 km,37.5381557686,-122.304679264
+San Mateo,CA,United States of America,94404,IV,92,74 km,37.5560651456,-122.269854893
+Alameda,CA,United States of America,94501,IV,178,50 km,37.7746713921,-122.275647073
+Alameda,CA,United States of America,94502,IV,57,54 km,37.7370275945,-122.2411586
+American Canyon,CA,United States of America,94503,VII,62,13 km,38.1933015059,-122.228210427
+Discovery Bay,CA,United States of America,94505,III,9,73 km,37.885561543,-121.600868739
+Danville,CA,United States of America,94506,IV,41,57 km,37.8159141289,-121.910441645
+Alamo,CA,United States of America,94507,IV,48,49 km,37.8529789211,-122.00597462
+Angwin,CA,United States of America,94508,V,24,43 km,38.5793622419,-122.447535241
+Antioch,CA,United States of America,94509,III,41,51 km,37.9936917579,-121.814363931
+Benicia,CA,United States of America,94510,V,118,24 km,38.0889049703,-122.122779438
+Brentwood,CA,United States of America,94513,III,44,62 km,37.9112945827,-121.71941808
+Byron,CA,United States of America,94514,V,1,74 km,37.8141747261,-121.642269145
+Calistoga,CA,United States of America,94515,IV,31,51 km,38.6063407927,-122.595633121
+Clayton,CA,United States of America,94517,IV,35,53 km,37.8871865959,-121.891196525
+Concord,CA,United States of America,94518,IV,67,40 km,37.950837981,-122.022350281
+Concord,CA,United States of America,94519,IV,41,38 km,37.9883965249,-122.006762282
+Concord,CA,United States of America,94520,IV,52,34 km,38.0188740799,-122.040302233
+Concord,CA,United States of America,94521,IV,90,42 km,37.9713331484,-121.957127634
+Pleasant Hill,CA,United States of America,94523,IV,125,37 km,37.9543225437,-122.07630293
+Crockett,CA,United States of America,94525,VI,19,22 km,38.0502787406,-122.225088703
+Danville,CA,United States of America,94526,IV,89,53 km,37.8139415505,-121.989888408
+El Cerrito,CA,United States of America,94530,III,110,34 km,37.9229540734,-122.292315771
+Antioch,CA,United States of America,94531,III,32,55 km,37.956008146,-121.783600879
+Fairfield,CA,United States of America,94533,IV,111,29 km,38.2800278927,-122.014736855
+Fairfield,CA,United States of America,94534,V,131,20 km,38.2413237878,-122.121790816
+Travis AFB,CA,United States of America,94535,IV,10,35 km,38.2728146381,-121.938218426
+Fremont,CA,United States of America,94536,III,78,77 km,37.5714118375,-121.985688461
+Fremont,CA,United States of America,94538,III,66,85 km,37.4995299957,-121.977885195
+Fremont,CA,United States of America,94539,III,63,84 km,37.5266513594,-121.911791132
+Hayward,CA,United States of America,94541,III,52,64 km,37.6745039472,-122.08434059
+Hayward,CA,United States of America,94542,III,19,67 km,37.6562925513,-122.032589888
+Hayward,CA,United States of America,94544,III,33,69 km,37.6330043297,-122.056890432
+Hayward,CA,United States of America,94545,III,18,67 km,37.6321633726,-122.11840959
+Castro Valley,CA,United States of America,94546,III,53,55 km,37.7535145162,-122.097032395
+Hercules,CA,United States of America,94547,V,48,26 km,38.0059706221,-122.26023596
+Lafayette,CA,United States of America,94549,IV,90,40 km,37.9011071203,-122.117193174
+Livermore,CA,United States of America,94550,III,101,98 km,37.5189222377,-121.624336977
+Livermore,CA,United States of America,94551,III,78,70 km,37.7544107453,-121.777824944
+Castro Valley,CA,United States of America,94552,III,35,63 km,37.7052675163,-122.007465818
+Martinez,CA,United States of America,94553,V,179,30 km,37.9820157598,-122.165788423
+Fremont,CA,United States of America,94555,III,41,76 km,37.5560370984,-122.080114292
+Moraga,CA,United States of America,94556,IV,39,47 km,37.8329277404,-122.111057261
+Napa,CA,United States of America,94558,VII,208,33 km,38.4988212361,-122.266321155
+Napa,CA,United States of America,94559,VIII,98,11 km,38.2394047273,-122.330669802
+Newark,CA,United States of America,94560,III,32,81 km,37.5190599771,-122.046489982
+Oakley,CA,United States of America,94561,III,23,61 km,38.0338520346,-121.6569517
+Orinda,CA,United States of America,94563,IV,55,41 km,37.8701811099,-122.184883316
+Pinole,CA,United States of America,94564,V,29,27 km,37.9943624284,-122.285174153
+Pittsburg,CA,United States of America,94565,IV,89,42 km,38.0179010375,-121.913733182
+Pleasanton,CA,United States of America,94566,III,63,75 km,37.6457318049,-121.852881407
+Pope Valley,CA,United States of America,94567,IV,3,53 km,38.6713870349,-122.442966451
+Dublin,CA,United States of America,94568,III,85,66 km,37.7137844956,-121.909108702
+Port Costa,CA,United States of America,94569,VI,3,24 km,38.0469452376,-122.186078829
+Rio Vista,CA,United States of America,94571,IV,21,50 km,38.1776330337,-121.755223584
+Rodeo,CA,United States of America,94572,VI,20,24 km,38.0297882907,-122.244783272
+Saint Helena,CA,United States of America,94574,V,28,34 km,38.4956568895,-122.410359481
+Deer Park,CA,United States of America,94576,V,3,41 km,38.5496431929,-122.476478001
+San Leandro,CA,United States of America,94577,III,54,57 km,37.7165921385,-122.164549051
+San Leandro,CA,United States of America,94578,III,22,59 km,37.7063627987,-122.125302829
+San Leandro,CA,United States of America,94579,III,17,61 km,37.6870406805,-122.157705842
+San Lorenzo,CA,United States of America,94580,III,16,62 km,37.6757604923,-122.136048982
+San Ramon,CA,United States of America,94582,III,54,62 km,37.766003993,-121.906630849
+San Ramon,CA,United States of America,94583,III,73,58 km,37.7659173829,-121.990078229
+Suisun City,CA,United States of America,94585,IV,58,33 km,38.1538884022,-121.958516649
+Sunol,CA,United States of America,94586,III,4,82 km,37.5617179945,-121.873674489
+Union City,CA,United States of America,94587,III,46,73 km,37.599599331,-122.045389358
+Pleasanton,CA,United States of America,94588,III,78,69 km,37.6895558211,-121.896794754
+Vallejo,CA,United States of America,94589,VII,36,14 km,38.1408765464,-122.248056096
+Vallejo,CA,United States of America,94590,VII,91,17 km,38.1003329591,-122.247859578
+Vallejo,CA,United States of America,94591,V,103,18 km,38.1137083826,-122.199613148
+Vallejo,CA,United States of America,94592,VI,7,15 km,38.1226722615,-122.309090842
+Walnut Creek,CA,United States of America,94595,IV,31,45 km,37.8714903106,-122.069041617
+Walnut Creek,CA,United States of America,94596,IV,61,45 km,37.8884024161,-122.036464813
+Walnut Creek,CA,United States of America,94597,IV,95,40 km,37.9181539053,-122.071327156
+Walnut Creek,CA,United States of America,94598,IV,72,45 km,37.9057818419,-122.003612069
+Yountville,CA,United States of America,94599,VII,11,24 km,38.4092496224,-122.367482923
+Oakland,CA,United States of America,94601,IV,36,50 km,37.7769570111,-122.218009652
+Oakland,CA,United States of America,94602,III,80,47 km,37.8041177031,-122.207451284
+Oakland,CA,United States of America,94603,III,10,55 km,37.738999196,-122.1764151
+Oakland,CA,United States of America,94605,III,45,53 km,37.7602447192,-122.148766398
+Oakland,CA,United States of America,94606,IV,63,48 km,37.7928940811,-122.244521036
+Oakland,CA,United States of America,94607,IV,70,46 km,37.808279628,-122.298285049
+Emeryville,CA,United States of America,94608,IV,105,43 km,37.8355803247,-122.284666408
+Oakland,CA,United States of America,94609,IV,106,43 km,37.8347302593,-122.264110335
+Oakland,CA,United States of America,94610,IV,165,46 km,37.8120934987,-122.240580761
+Oakland,CA,United States of America,94611,III,194,44 km,37.8308833038,-122.215136936
+Oakland,CA,United States of America,94612,IV,63,46 km,37.8086513164,-122.267192618
+Oakland,CA,United States of America,94613,V,2,50 km,37.7807184021,-122.183012185
+Oakland,CA,United States of America,94618,III,98,43 km,37.8445345419,-122.238119356
+Oakland,CA,United States of America,94619,III,61,49 km,37.7907735637,-122.174004163
+Oakland,CA,United States of America,94621,III,6,55 km,37.7363988898,-122.20724282
+Berkeley,CA,United States of America,94702,IV,92,40 km,37.8661564601,-122.286131717
+Berkeley,CA,United States of America,94703,IV,104,40 km,37.8642252902,-122.275622265
+Berkeley,CA,United States of America,94704,IV,75,40 km,37.8690688607,-122.244743009
+Berkeley,CA,United States of America,94705,IV,93,41 km,37.859587706,-122.240676464
+Albany,CA,United States of America,94706,IV,79,37 km,37.8900858867,-122.295112607
+Berkeley,CA,United States of America,94707,III,86,37 km,37.8982127479,-122.279304332
+Berkeley,CA,United States of America,94708,IV,70,36 km,37.9005535375,-122.259961008
+Berkeley,CA,United States of America,94709,IV,63,39 km,37.879136566,-122.266731522
+Berkeley,CA,United States of America,94710,III,35,39 km,37.8706652922,-122.303408913
+Berkeley,CA,United States of America,94720,IV,7,39 km,37.8738799337,-122.253950565
+Richmond,CA,United States of America,94801,IV,29,31 km,37.9523328381,-122.37953577
+El Sobrante,CA,United States of America,94803,V,82,30 km,37.9621021245,-122.281940007
+Richmond,CA,United States of America,94804,IV,62,34 km,37.9211880504,-122.341638448
+Richmond,CA,United States of America,94805,III,39,32 km,37.9417455387,-122.321614258
+San Pablo,CA,United States of America,94806,V,53,28 km,37.9781737425,-122.336316856
+San Rafael,CA,United States of America,94901,III,94,33 km,37.9773170266,-122.505613807
+San Rafael,CA,United States of America,94903,III,74,31 km,38.0231351744,-122.546693653
+Greenbrae,CA,United States of America,94904,IV,29,36 km,37.9562884271,-122.542805486
+Belvedere Tiburon,CA,United States of America,94920,IV,33,40 km,37.8877063373,-122.465337749
+Bodega,CA,United States of America,94922,III,1,58 km,38.3348765169,-122.947738991
+Bodega Bay,CA,United States of America,94923,IV,13,65 km,38.337065453,-123.027753963
+Bolinas,CA,United States of America,94924,IV,10,48 km,37.9287384584,-122.703036209
+Corte Madera,CA,United States of America,94925,III,20,38 km,37.9228182129,-122.512545747
+Rohnert Park,CA,United States of America,94928,V,103,38 km,38.3460394877,-122.694982993
+Dillon Beach,CA,United States of America,94929,IV,3,57 km,38.2510803546,-122.956547476
+Fairfax,CA,United States of America,94930,IV,35,40 km,37.963648832,-122.628676967
+Cotati,CA,United States of America,94931,IV,35,38 km,38.3240485004,-122.715553935
+Forest Knolls,CA,United States of America,94933,II,1,41 km,38.0083522125,-122.690685541
+Inverness,CA,United States of America,94937,IV,10,56 km,38.0907549048,-122.923701839
+Lagunitas,CA,United States of America,94938,II,1,42 km,38.0127700226,-122.705354841
+Larkspur,CA,United States of America,94939,III,18,38 km,37.9379612373,-122.533288552
+Marshall,CA,United States of America,94940,III,1,51 km,38.1953215445,-122.889874278
+Mill Valley,CA,United States of America,94941,III,68,43 km,37.8934006252,-122.565192731
+Novato,CA,United States of America,94945,IV,67,25 km,38.1288473341,-122.555883482
+Nicasio,CA,United States of America,94946,III,3,40 km,38.0519782125,-122.705181946
+Novato,CA,United States of America,94947,IV,56,32 km,38.1125981431,-122.633083866
+Novato,CA,United States of America,94949,IV,43,28 km,38.0651159903,-122.539965535
+Penngrove,CA,United States of America,94951,IV,21,33 km,38.3218513743,-122.644095055
+Petaluma,CA,United States of America,94952,IV,128,42 km,38.2191104861,-122.775453144
+Petaluma,CA,United States of America,94954,V,103,24 km,38.225397908,-122.557485272
+Point Reyes Station,CA,United States of America,94956,IV,6,49 km,38.0046506468,-122.793994361
+San Anselmo,CA,United States of America,94960,IV,42,35 km,37.9915743558,-122.576297478
+San Geronimo,CA,United States of America,94963,IV,4,41 km,38.0012017216,-122.676216441
+Sausalito,CA,United States of America,94965,III,38,46 km,37.846033599,-122.516835412
+Stinson Beach,CA,United States of America,94970,IV,4,45 km,37.9211622971,-122.657719106
+Tomales,CA,United States of America,94971,V,3,53 km,38.2408853645,-122.91315043
+Woodacre,CA,United States of America,94973,IV,3,38 km,38.0033051635,-122.643519068
+Alviso,CA,United States of America,95002,III,3,90 km,37.4467951254,-121.990962998
+Aptos,CA,United States of America,95003,II,16,139 km,37.0096905719,-121.879735429
+Aromas,CA,United States of America,95004,III,1,160 km,36.8769387866,-121.635616407
+Ben Lomond,CA,United States of America,95005,III,24,125 km,37.0982760117,-122.093700482
+Boulder Creek,CA,United States of America,95006,III,20,117 km,37.1708196502,-122.150500522
+Campbell,CA,United States of America,95008,III,60,109 km,37.2799654858,-121.954633222
+Capitola,CA,United States of America,95010,II,3,141 km,36.9772143492,-121.954942782
+Cupertino,CA,United States of America,95014,III,79,103 km,37.3039888075,-122.094907446
+Davenport,CA,United States of America,95017,II,1,128 km,37.061136504,-122.212478004
+Felton,CA,United States of America,95018,II,15,128 km,37.0789460064,-122.057748446
+Gilroy,CA,United States of America,95020,II,12,148 km,37.0188204369,-121.560718867
+Hollister,CA,United States of America,95023,II,6,178 km,36.8566762391,-121.249223359
+Los Gatos,CA,United States of America,95030,II,11,114 km,37.2248970392,-121.991046295
+Los Gatos,CA,United States of America,95032,III,32,116 km,37.2152832761,-121.929411862
+Los Gatos,CA,United States of America,95033,III,32,122 km,37.1494113728,-121.96286758
+Milpitas,CA,United States of America,95035,III,53,97 km,37.4377791393,-121.817111415
+Morgan Hill,CA,United States of America,95037,II,10,132 km,37.1634138038,-121.605115684
+Moss Landing,CA,United States of America,95039,II,1,161 km,36.8295545334,-121.775540632
+Paicines,CA,United States of America,95043,III,1,227 km,36.4869402111,-120.946780105
+San Juan Bautista,CA,United States of America,95045,IV,3,167 km,36.850595258,-121.519285401
+Santa Clara,CA,United States of America,95050,III,49,101 km,37.3525643231,-121.952339333
+Santa Clara,CA,United States of America,95051,III,62,101 km,37.3486320135,-121.984149504
+Santa Clara,CA,United States of America,95054,III,38,96 km,37.3933177105,-121.96494896
+Santa Cruz,CA,United States of America,95060,III,57,129 km,37.0592413896,-122.157700218
+Santa Cruz,CA,United States of America,95062,III,16,141 km,36.9730226429,-121.989603497
+Santa Cruz,CA,United States of America,95064,II,2,137 km,37.0000577938,-122.06221309
+Santa Cruz,CA,United States of America,95065,II,12,134 km,37.0324334294,-121.983257671
+Scotts Valley,CA,United States of America,95066,III,27,129 km,37.0739284951,-122.01083177
+Saratoga,CA,United States of America,95070,II,38,109 km,37.2553258487,-122.048765195
+Soquel,CA,United States of America,95073,III,5,135 km,37.0313689435,-121.94736185
+Watsonville,CA,United States of America,95076,II,27,150 km,36.9415955433,-121.749518093
+San Jose,CA,United States of America,95110,III,13,103 km,37.3461364192,-121.909526356
+San Jose,CA,United States of America,95111,III,14,112 km,37.2843036091,-121.828573399
+San Jose,CA,United States of America,95112,III,62,104 km,37.3449260065,-121.883622921
+San Jose,CA,United States of America,95113,III,6,105 km,37.3336966412,-121.891424212
+San Jose,CA,United States of America,95116,III,15,104 km,37.3507777259,-121.852162682
+San Jose,CA,United States of America,95117,III,32,105 km,37.311538125,-121.962131392
+San Jose,CA,United States of America,95118,II,18,113 km,37.2549960287,-121.889898219
+San Jose,CA,United States of America,95119,III,4,119 km,37.2307261134,-121.787644441
+San Jose,CA,United States of America,95120,II,29,121 km,37.1956225021,-121.83847428
+San Jose,CA,United States of America,95121,II,13,110 km,37.3040637194,-121.80980011
+San Jose,CA,United States of America,95122,III,9,107 km,37.3287330051,-121.83606483
+San Jose,CA,United States of America,95123,III,62,116 km,37.2437206402,-121.82920337
+San Jose,CA,United States of America,95124,II,36,112 km,37.2566587072,-121.922919551
+San Jose,CA,United States of America,95125,III,80,109 km,37.2949823535,-121.893341858
+San Jose,CA,United States of America,95126,III,66,105 km,37.3268750735,-121.916914377
+San Jose,CA,United States of America,95127,II,31,104 km,37.3754477437,-121.794143031
+San Jose,CA,United States of America,95128,III,33,105 km,37.3162104971,-121.936547909
+San Jose,CA,United States of America,95129,III,31,105 km,37.3058892635,-122.00172322
+San Jose,CA,United States of America,95130,III,19,108 km,37.2813311083,-121.977808985
+San Jose,CA,United States of America,95131,III,29,99 km,37.3868685408,-121.897619458
+San Jose,CA,United States of America,95132,III,26,99 km,37.4104901077,-121.828623944
+San Jose,CA,United States of America,95133,III,11,102 km,37.3718056035,-121.859404209
+San Jose,CA,United States of America,95134,IV,47,93 km,37.4293950999,-121.945839019
+San Jose,CA,United States of America,95135,II,14,116 km,37.2832817723,-121.710295543
+San Jose,CA,United States of America,95136,III,35,113 km,37.2699248435,-121.85110455
+San Jose,CA,United States of America,95138,III,13,119 km,37.2477925948,-121.738204824
+San Jose,CA,United States of America,95139,II,3,120 km,37.2246126608,-121.763882467
+San Jose,CA,United States of America,95148,III,11,109 km,37.3350690573,-121.776125193
+Stockton,CA,United States of America,95202,II,3,94 km,37.9598430207,-121.28763912
+Stockton,CA,United States of America,95204,III,4,91 km,37.9732358003,-121.320760444
+Stockton,CA,United States of America,95205,II,2,96 km,37.9654550227,-121.260688058
+Stockton,CA,United States of America,95206,III,3,83 km,37.9261603845,-121.441229928
+Stockton,CA,United States of America,95207,II,3,90 km,38.0022422575,-121.324992989
+Stockton,CA,United States of America,95209,II,7,87 km,38.0446116145,-121.348280143
+Stockton,CA,United States of America,95210,III,1,91 km,38.0298603534,-121.301218199
+Stockton,CA,United States of America,95212,III,1,97 km,38.0476824471,-121.229821794
+Stockton,CA,United States of America,95215,II,2,106 km,37.9457840479,-121.150192706
+Stockton,CA,United States of America,95219,III,7,77 km,38.062041912,-121.455103482
+Acampo,CA,United States of America,95220,II,4,98 km,38.2005304989,-121.189864091
+Arnold,CA,United States of America,95223,II,1,188 km,38.3924064649,-120.173258375
+French Camp,CA,United States of America,95231,III,1,97 km,37.8772588657,-121.295665769
+Lodi,CA,United States of America,95240,III,7,101 km,38.1175551491,-121.167263913
+Lodi,CA,United States of America,95242,III,8,79 km,38.1394810359,-121.422403662
+Valley Springs,CA,United States of America,95252,II,2,131 km,38.1607928198,-120.822744362
+West Point,CA,United States of America,95255,II,1,173 km,38.4323680093,-120.355863998
+Tracy,CA,United States of America,95304,II,2,100 km,37.7048340605,-121.380990858
+Ceres,CA,United States of America,95307,II,1,140 km,37.5521829908,-120.951298643
+Hilmar,CA,United States of America,95324,II,1,155 km,37.3952922466,-120.890096728
+Lathrop,CA,United States of America,95330,III,4,99 km,37.813939982,-121.305185298
+Manteca,CA,United States of America,95336,II,2,107 km,37.8338888997,-121.191392201
+Manteca,CA,United States of America,95337,II,2,108 km,37.7408671656,-121.238163497
+Merced,CA,United States of America,95340,II,1,195 km,37.3645228351,-120.368461295
+MI Wuk Village,CA,United States of America,95346,II,2,194 km,38.0464734174,-120.107911395
+Modesto,CA,United States of America,95350,I,1,130 km,37.6715987488,-121.007168907
+Modesto,CA,United States of America,95355,II,3,134 km,37.6715411784,-120.947727094
+Modesto,CA,United States of America,95356,II,3,126 km,37.7194921934,-121.027817027
+Modesto,CA,United States of America,95357,II,1,139 km,37.6667219386,-120.887794928
+Modesto,CA,United States of America,95358,II,4,126 km,37.6141228599,-121.099127663
+Newman,CA,United States of America,95360,IV,2,139 km,37.2933399001,-121.236192604
+Oakdale,CA,United States of America,95361,II,2,143 km,37.7851166656,-120.782622671
+Patterson,CA,United States of America,95363,II,2,122 km,37.4900061033,-121.264226585
+Ripon,CA,United States of America,95366,II,1,116 km,37.7641655961,-121.125448616
+Riverbank,CA,United States of America,95367,II,2,132 km,37.7310858107,-120.945588947
+Snelling,CA,United States of America,95369,II,1,184 km,37.5241881566,-120.41284101
+Sonora,CA,United States of America,95370,II,1,174 km,37.9891556255,-120.349971779
+Tracy,CA,United States of America,95376,II,20,94 km,37.7378258957,-121.431280522
+Tracy,CA,United States of America,95377,III,9,98 km,37.6246239656,-121.48110315
+Turlock,CA,United States of America,95380,II,1,151 km,37.4720726269,-120.872713327
+Turlock,CA,United States of America,95382,II,2,149 km,37.5292927044,-120.851093333
+Twain Harte,CA,United States of America,95383,II,2,185 km,38.0416907911,-120.20780673
+Waterford,CA,United States of America,95386,I,1,159 km,37.6789899735,-120.631403704
+Yosemite National Park,CA,United States of America,95389,IV,2,248 km,37.749744387,-119.554279563
+Tracy,CA,United States of America,95391,II,5,83 km,37.7687544886,-121.557842518
+Santa Rosa,CA,United States of America,95401,IV,94,50 km,38.4514015217,-122.793254532
+Santa Rosa,CA,United States of America,95403,IV,123,51 km,38.5032353589,-122.750206204
+Santa Rosa,CA,United States of America,95404,IV,172,36 km,38.3832370515,-122.640583489
+Santa Rosa,CA,United States of America,95405,IV,120,41 km,38.4395469848,-122.668473589
+Santa Rosa,CA,United States of America,95407,IV,82,44 km,38.3945264359,-122.742813614
+Santa Rosa,CA,United States of America,95409,IV,123,38 km,38.4572243695,-122.598650563
+Albion,CA,United States of America,95410,I,1,162 km,39.2061324774,-123.67720678
+Annapolis,CA,United States of America,95412,IV,2,104 km,38.6695833716,-123.352822001
+Cazadero,CA,United States of America,95421,III,9,91 km,38.6430202165,-123.202393143
+Clearlake,CA,United States of America,95422,IV,9,87 km,38.9761110501,-122.543494727
+Clearlake Oaks,CA,United States of America,95423,II,1,105 km,39.1237409093,-122.643192124
+Cloverdale,CA,United States of America,95425,II,15,90 km,38.7909586796,-123.034816655
+Forestville,CA,United States of America,95436,IV,30,61 km,38.4927530343,-122.913172205
+Fort Bragg,CA,United States of America,95437,II,3,183 km,39.4643563766,-123.69642113
+Fulton,CA,United States of America,95439,V,2,52 km,38.4928682207,-122.774708492
+Geyserville,CA,United States of America,95441,III,5,76 km,38.7400781592,-122.859676289
+Glen Ellen,CA,United States of America,95442,VI,30,27 km,38.3746007188,-122.513222822
+Glenhaven,CA,United States of America,95443,III,1,98 km,39.0303522133,-122.737948124
+Gualala,CA,United States of America,95445,I,1,120 km,38.8367313039,-123.433501289
+Guerneville,CA,United States of America,95446,IV,27,70 km,38.5257415642,-123.006112393
+Healdsburg,CA,United States of America,95448,IV,53,66 km,38.6242156485,-122.848151425
+Hopland,CA,United States of America,95449,IV,3,105 km,38.9269030563,-123.106463927
+Jenner,CA,United States of America,95450,IV,6,81 km,38.4829730851,-123.173752488
+Kelseyville,CA,United States of America,95451,III,18,89 km,38.921044264,-122.79454376
+Kenwood,CA,United States of America,95452,V,13,32 km,38.4259758369,-122.531648805
+Lakeport,CA,United States of America,95453,II,2,110 km,39.0561231508,-122.972725974
+Lower Lake,CA,United States of America,95457,III,4,76 km,38.8749044469,-122.521363962
+Middletown,CA,United States of America,95461,IV,6,67 km,38.7666137401,-122.613153731
+Monte Rio,CA,United States of America,95462,IV,8,69 km,38.4645774237,-123.024604415
+Nice,CA,United States of America,95464,I,1,110 km,39.1177264167,-122.82195143
+Occidental,CA,United States of America,95465,IV,11,65 km,38.4013405222,-123.015485947
+Hidden Valley Lake,CA,United States of America,95467,IV,15,67 km,38.7917654171,-122.531543973
+Point Arena,CA,United States of America,95468,I,1,132 km,38.918345082,-123.530706912
+Potter Valley,CA,United States of America,95469,II,2,147 km,39.4015067309,-123.068836502
+Redwood Valley,CA,United States of America,95470,I,1,147 km,39.2751318915,-123.329440439
+Sebastopol,CA,United States of America,95472,IV,128,53 km,38.3966316165,-122.867666863
+Sonoma,CA,United States of America,95476,VI,111,17 km,38.2510840872,-122.453732438
+Ukiah,CA,United States of America,95482,II,1,129 km,39.1369495272,-123.224829878
+Willits,CA,United States of America,95490,II,3,167 km,39.4716278515,-123.365954363
+Windsor,CA,United States of America,95492,IV,56,57 km,38.5417405178,-122.81139405
+The Sea Ranch,CA,United States of America,95497,II,3,117 km,38.7349150457,-123.473570526
+Eureka,CA,United States of America,95503,II,1,317 km,40.7119988087,-124.097405236
+McKinleyville,CA,United States of America,95519,II,2,338 km,40.9515606458,-124.03879277
+Leggett,CA,United States of America,95585,I,1,215 km,39.8291976622,-123.690514213
+Zenia,CA,United States of America,95595,IV,1,239 km,40.1947293649,-123.397507698
+Auburn,CA,United States of America,95602,III,2,135 km,38.9891456749,-121.120488349
+Auburn,CA,United States of America,95603,II,2,133 km,38.916044383,-121.079498732
+West Sacramento,CA,United States of America,95605,III,5,80 km,38.5930705632,-121.539979547
+Brooks,CA,United States of America,95606,III,4,66 km,38.8071408992,-122.236088426
+Capay,CA,United States of America,95607,IV,3,57 km,38.7014147671,-122.112317601
+Carmichael,CA,United States of America,95608,II,20,97 km,38.6248099544,-121.328174332
+Citrus Heights,CA,United States of America,95610,II,4,105 km,38.694908826,-121.271610134
+Clarksburg,CA,United States of America,95612,III,4,68 km,38.3995807826,-121.573363824
+Courtland,CA,United States of America,95615,IV,2,68 km,38.3106323622,-121.551681596
+Davis,CA,United States of America,95616,III,145,59 km,38.5589148035,-121.802578233
+Davis,CA,United States of America,95618,III,79,68 km,38.5471623174,-121.668236718
+Diamond Springs,CA,United States of America,95619,II,1,141 km,38.6819702417,-120.812984056
+Dixon,CA,United States of America,95620,IV,42,54 km,38.4139484772,-121.758761423
+Citrus Heights,CA,United States of America,95621,II,3,103 km,38.6948426624,-121.307749465
+El Dorado,CA,United States of America,95623,I,1,134 km,38.6024650696,-120.854453663
+Elk Grove,CA,United States of America,95624,II,15,92 km,38.4398676521,-121.298438199
+Elverta,CA,United States of America,95626,II,1,94 km,38.7295171545,-121.460684122
+Esparto,CA,United States of America,95627,IV,7,63 km,38.7250677166,-122.007965524
+Fair Oaks,CA,United States of America,95628,II,4,104 km,38.6519862268,-121.254651156
+Folsom,CA,United States of America,95630,III,7,114 km,38.6647672952,-121.142885324
+Foresthill,CA,United States of America,95631,II,4,177 km,39.0788688326,-120.60407926
+Georgetown,CA,United States of America,95634,II,1,160 km,38.9236633113,-120.718352031
+Greenwood,CA,United States of America,95635,II,1,145 km,38.9205111056,-120.905068189
+Grizzly Flats,CA,United States of America,95636,II,1,166 km,38.6637967152,-120.492909277
+Ione,CA,United States of America,95640,III,4,120 km,38.3310571004,-120.944807041
+Isleton,CA,United States of America,95641,IV,6,63 km,38.1558205866,-121.599785334
+Knights Landing,CA,United States of America,95645,III,1,87 km,38.8626619494,-121.749778628
+Lincoln,CA,United States of America,95648,II,2,117 km,38.920757037,-121.314305491
+McClellan,CA,United States of America,95652,II,1,94 km,38.6624317869,-121.402053266
+Mather,CA,United States of America,95655,III,1,97 km,38.5530031172,-121.287253704
+North Highlands,CA,United States of America,95660,III,2,96 km,38.6777786285,-121.380126061
+Roseville,CA,United States of America,95661,II,5,110 km,38.740224929,-121.250351975
+Orangevale,CA,United States of America,95662,III,3,109 km,38.6891077225,-121.220210168
+Pine Grove,CA,United States of America,95665,II,1,147 km,38.4037957589,-120.651478993
+Pioneer,CA,United States of America,95666,III,6,182 km,38.554277337,-120.272205981
+Placerville,CA,United States of America,95667,II,4,146 km,38.7419031895,-120.779290453
+Rancho Cordova,CA,United States of America,95670,III,7,100 km,38.6053663395,-121.280334773
+Roseville,CA,United States of America,95678,III,2,108 km,38.7648177637,-121.288145345
+Sheridan,CA,United States of America,95681,IV,1,121 km,39.0042622025,-121.354250772
+Shingle Springs,CA,United States of America,95682,III,1,125 km,38.6075720015,-120.964690152
+Sloughhouse,CA,United States of America,95683,I,1,111 km,38.5090889102,-121.105062248
+Sutter Creek,CA,United States of America,95685,II,1,135 km,38.4290537963,-120.791257451
+Vacaville,CA,United States of America,95687,IV,104,38 km,38.3322061156,-121.915041414
+Vacaville,CA,United States of America,95688,IV,75,35 km,38.4172016266,-122.025400727
+Volcano,CA,United States of America,95689,II,1,151 km,38.4759083422,-120.61788699
+Walnut Grove,CA,United States of America,95690,IV,6,65 km,38.2362236369,-121.574127701
+West Sacramento,CA,United States of America,95691,III,18,78 km,38.6161932035,-121.581620351
+Wilton,CA,United States of America,95693,III,1,97 km,38.3905835948,-121.22944933
+Winters,CA,United States of America,95694,III,21,48 km,38.561509696,-122.004528773
+Woodland,CA,United States of America,95695,III,53,67 km,38.6921573977,-121.855632552
+Zamora,CA,United States of America,95698,III,1,75 km,38.8194006723,-121.923260822
+Alta,CA,United States of America,95701,II,1,177 km,39.2411463041,-120.745244982
+Camino,CA,United States of America,95709,II,6,154 km,38.7502456033,-120.68116159
+Colfax,CA,United States of America,95713,I,1,155 km,39.087350268,-120.927305576
+Echo Lake,CA,United States of America,95721,I,1,205 km,38.8151055843,-120.085423496
+Meadow Vista,CA,United States of America,95722,II,1,142 km,39.0020168125,-121.030435484
+Pollock Pines,CA,United States of America,95726,II,6,169 km,38.7892362689,-120.514478902
+Rancho Cordova,CA,United States of America,95742,II,5,105 km,38.583385854,-121.204824762
+Granite Bay,CA,United States of America,95746,II,1,116 km,38.7494759522,-121.174069139
+Roseville,CA,United States of America,95747,II,2,103 km,38.7804051234,-121.376725658
+Elk Grove,CA,United States of America,95757,III,17,78 km,38.3459427904,-121.444301635
+Elk Grove,CA,United States of America,95758,III,22,80 km,38.4287414379,-121.443973956
+El Dorado Hills,CA,United States of America,95762,I,1,121 km,38.6813012122,-121.059670478
+Woodland,CA,United States of America,95776,III,25,75 km,38.6803662818,-121.696137828
+Sacramento,CA,United States of America,95811,III,9,82 km,38.5692135018,-121.491028006
+Sacramento,CA,United States of America,95814,III,22,82 km,38.5813486611,-121.495574369
+Sacramento,CA,United States of America,95815,III,5,88 km,38.6056738912,-121.443562292
+Sacramento,CA,United States of America,95816,III,15,84 km,38.5755644201,-121.465384384
+Sacramento,CA,United States of America,95817,II,11,84 km,38.5509031016,-121.456294504
+Sacramento,CA,United States of America,95818,II,28,81 km,38.556349956,-121.496743395
+Sacramento,CA,United States of America,95819,III,7,86 km,38.5686799725,-121.437290946
+Sacramento,CA,United States of America,95820,III,9,84 km,38.534995218,-121.444334229
+Sacramento,CA,United States of America,95821,II,4,93 km,38.6255043166,-121.384614296
+Sacramento,CA,United States of America,95822,III,16,79 km,38.5127554594,-121.49583299
+Sacramento,CA,United States of America,95823,II,6,82 km,38.4756968329,-121.443366569
+Sacramento,CA,United States of America,95824,III,1,83 km,38.517709872,-121.441176718
+Sacramento,CA,United States of America,95825,II,5,90 km,38.5901366288,-121.406719793
+Sacramento,CA,United States of America,95826,III,11,90 km,38.5459857042,-121.379035001
+Sacramento,CA,United States of America,95827,III,2,94 km,38.5526604872,-121.326734146
+Sacramento,CA,United States of America,95828,IV,5,86 km,38.4894161243,-121.396042912
+Sacramento,CA,United States of America,95829,II,3,91 km,38.4883584745,-121.334991084
+Sacramento,CA,United States of America,95831,III,51,76 km,38.495587119,-121.529159846
+Sacramento,CA,United States of America,95832,II,2,76 km,38.4495762829,-121.494322427
+Sacramento,CA,United States of America,95833,II,13,83 km,38.614750403,-121.513717942
+Sacramento,CA,United States of America,95834,II,4,84 km,38.6421277632,-121.520056004
+Sacramento,CA,United States of America,95835,III,9,85 km,38.6703637675,-121.52832213
+Sacramento,CA,United States of America,95841,II,6,98 km,38.6593115715,-121.347081811
+Sacramento,CA,United States of America,95842,II,1,99 km,38.6869651045,-121.348999173
+Antelope,CA,United States of America,95843,II,2,100 km,38.7154369931,-121.361603784
+Sacramento,CA,United States of America,95864,II,12,92 km,38.585740223,-121.376990791
+Marysville,CA,United States of America,95901,II,3,130 km,39.189320091,-121.481230042
+Arbuckle,CA,United States of America,95912,III,4,92 km,39.0070642174,-122.010540648
+Colusa,CA,United States of America,95932,IV,4,119 km,39.2603953354,-122.027568946
+Dunnigan,CA,United States of America,95937,III,3,75 km,38.8627387115,-122.0807688
+Durham,CA,United States of America,95938,II,2,159 km,39.5954755441,-121.8367363
+Grass Valley,CA,United States of America,95945,II,7,164 km,39.2138541316,-120.926496583
+Penn Valley,CA,United States of America,95946,II,1,143 km,39.1771978554,-121.214661963
+Grass Valley,CA,United States of America,95949,II,4,143 km,39.0999764229,-121.114611914
+Magalia,CA,United States of America,95954,II,2,202 km,39.9372576234,-121.556837843
+Nevada City,CA,United States of America,95959,II,5,175 km,39.3405158705,-120.901725991
+North San Juan,CA,United States of America,95960,III,2,169 km,39.3961479868,-121.08144099
+Chico,CA,United States of America,95973,I,1,186 km,39.8612475043,-121.878197006
+Smartville,CA,United States of America,95977,II,1,141 km,39.1901820825,-121.279373268
+Williams,CA,United States of America,95987,III,5,98 km,39.0966106533,-122.282842057
+Willows,CA,United States of America,95988,II,1,145 km,39.519909753,-122.308698959
+Yuba City,CA,United States of America,95991,II,3,109 km,39.0231324018,-121.61244158
+Yuba City,CA,United States of America,95993,II,6,110 km,39.0790789315,-121.684865214
+Redding,CA,United States of America,96001,I,1,265 km,40.598019567,-122.46979591
+Redding,CA,United States of America,96003,I,1,272 km,40.6695191792,-122.312232909
+Anderson,CA,United States of America,96007,II,1,248 km,40.4534899825,-122.297675403
+Alturas,CA,United States of America,96101,II,1,396 km,41.4957915496,-120.486535175
+Blairsden-Graeagle,CA,United States of America,96103,II,1,225 km,39.8010984125,-120.690097808
+Clio,CA,United States of America,96106,II,1,228 km,39.7352520512,-120.531235898
+Markleeville,CA,United States of America,96120,III,1,222 km,38.6924869929,-119.838149527
+Sierra City,CA,United States of America,96125,I,1,206 km,39.5622011574,-120.672610736
+Susanville,CA,United States of America,96130,II,2,295 km,40.5309886595,-120.631579437
+Westwood,CA,United States of America,96137,II,2,253 km,40.2842914898,-121.088551847
+Homewood,CA,United States of America,96141,II,1,205 km,39.0632408887,-120.219395772
+Tahoma,CA,United States of America,96142,II,1,209 km,39.058180066,-120.161397508
+Kings Beach,CA,United States of America,96143,II,1,230 km,39.276868914,-120.036063372
+Tahoe City,CA,United States of America,96145,II,3,210 km,39.1547351097,-120.216879548
+Olympic Valley,CA,United States of America,96146,III,1,211 km,39.1812627903,-120.21908607
+South Lake Tahoe,CA,United States of America,96150,II,10,212 km,38.8843567361,-120.03415586
+Truckee,CA,United States of America,96161,II,5,222 km,39.331275754,-120.193978014
+Portland,OR,United States of America,97218,I,1,818 km,45.5765344488,-122.599523844
+Portland,OR,United States of America,97224,II,1,799 km,45.4066062937,-122.796019942
+Portland,OR,United States of America,97232,I,1,812 km,45.5289401988,-122.643659351
+Portland,OR,United States of America,97239,II,1,808 km,45.4884109054,-122.691686625
+Toledo,OR,United States of America,97391,I,1,722 km,44.6112864135,-123.912339052
+Gold Beach,OR,United States of America,97444,II,1,505 km,42.4845675549,-124.358576176
+Yacolt,WA,United States of America,98675,II,1,846 km,45.8370813015,-122.343194909
