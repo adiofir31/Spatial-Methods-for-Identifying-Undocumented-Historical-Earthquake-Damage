@@ -181,11 +181,36 @@ PRED_NEIGHBORS_LIST = list(range(5, 51, 5))      # k values for KNN_k
 MIN_NEIGHBORS = 5                                # minimum bin count for regression
 
 # Kriging grid-search parameters
-VARIOGRAM_MODELS = ["exponential", "spherical", "gaussian"]
+# The Gaussian variogram was tested during development but excluded from the
+# reported analysis: it produced unstable fits, with extremely large MSE values
+# and large standard deviations across all parameter combinations.
+VARIOGRAM_MODELS = ["exponential", "spherical"]
 NLAGS_LIST = list(range(5, 50, 5))
-N_CLOSEST_POINTS_LIST = [5, 15, 25, 50, None]
+N_CLOSEST_POINTS_LIST = [5, 15, 25, 50, None]   # None = use all training points
 DRIFT_TERMS_LIST = ["regional_linear", "linear", "quadratic"]
 
-# Train / test split
-TEST_SIZE = 0.25
+# ─────────────────────────────────────────────────────────────────────────────
+# Cross-validation
+# ─────────────────────────────────────────────────────────────────────────────
+# Every model is evaluated under k-fold cross-validation, in which each site is
+# held out for testing exactly once and the reported metrics are averaged over
+# folds and over the parameter grid. Two partitioning schemes are used:
+#
+#   random   — sites assigned to folds at random; each withheld site stays
+#              embedded within the reported field.
+#   spatial  — folds are contiguous spatial blocks (k-means on site
+#              coordinates); entire regions are withheld together.
+#
+# See models/cross_validation.py and the README for details.
+CV_SCHEMES = ["random", "spatial"]
+K_FOLDS = 5
 RANDOM_STATE = 42
+
+# Coordinate space used to form the spatial blocks, per model family.
+# These values reproduce the results reported in the paper — see the README
+# section "Reproducing the published results" before changing them.
+FOLD_COORD_SPACE_NEAR_TABLE = "projected"   # linear regression and KNN
+FOLD_COORD_SPACE_KRIGING = "degrees"        # kriging
+
+# Site identifier column in the site tables, used to build the fold map.
+SITE_ID_COL = "OID_"

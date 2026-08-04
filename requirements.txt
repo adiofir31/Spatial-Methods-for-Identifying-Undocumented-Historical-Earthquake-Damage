@@ -1,0 +1,8 @@
+# Phase 2 (modelling) dependencies.
+# Phase 1 (preprocessing) additionally requires a licensed ArcGIS Pro
+# installation providing the `arcpy` module, which is not installable via pip.
+numpy>=1.22
+pandas>=1.4
+scikit-learn>=1.0
+scipy>=1.7
+pykrige>=1.7

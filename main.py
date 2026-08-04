@@ -11,6 +11,9 @@ Usage examples
 
     # Run a single model:
     python main.py --earthquake M_6.4_Dead_Sea_1927 --skip_preprocessing --model linear
+
+    # Run only one cross-validation scheme:
+    python main.py --earthquake M_6.4_Dead_Sea_1927 --skip_preprocessing --scheme spatial
     python main.py --earthquake M_6.4_Dead_Sea_1927 --skip_preprocessing --model knn
     python main.py --earthquake M_6.9_Kamariotissa_2014 --skip_preprocessing --model kriging
 """
@@ -23,7 +26,7 @@ import sys
 
 import pandas as pd
 
-from config import DATA_DIR, EARTHQUAKE_PARAMS, RESULTS_DIR
+from config import CV_SCHEMES, DATA_DIR, EARTHQUAKE_PARAMS, RESULTS_DIR
 
 
 def main():
@@ -47,6 +50,10 @@ def main():
         "--near_table", default=None,
         help="Override: path to a pre-existing near table CSV.",
     )
+    parser.add_argument(
+        "--scheme", default="all", choices=["all", "random", "spatial"],
+        help="Cross-validation scheme to run (default: all).",
+    )
     args = parser.parse_args()
 
     eq = args.earthquake
@@ -56,6 +63,15 @@ def main():
         sys.exit(1)
 
     params = EARTHQUAKE_PARAMS[eq]
+    schemes = CV_SCHEMES if args.scheme == "all" else [args.scheme]
+
+    # Site table used to build the cross-validation folds. The fold map is
+    # keyed on the persistent site identifier, so it must be the same table
+    # that Phase 1 used to generate the near table.
+    sites_csv = os.path.join(DATA_DIR, params["input_csv"])
+    fields = params.get("fields", {})
+    lon_col = fields.get("lon", "POINT_X")
+    lat_col = fields.get("lat", "POINT_Y")
 
     # ── Phase 1 ──────────────────────────────────────────────────────────
     if not args.skip_preprocessing:
@@ -89,9 +105,10 @@ def main():
         print(f" Phase 2A — Linear Regression: {eq}")
         print(f"{'='*60}\n")
         df_lr = run_linear_regression(
-            near_table, earthquake_name=eq,
+            near_table, sites_csv, earthquake_name=eq,
             total_dist_list=filters.get("total_dist_list"),
             nei_dist_list=filters.get("nei_dist_list"),
+            schemes=schemes, lon_col=lon_col, lat_col=lat_col,
         )
         out = os.path.join(RESULTS_DIR, f"{eq}_linear_results.csv")
         df_lr.to_csv(out, index=False)
@@ -105,13 +122,15 @@ def main():
         print(f"{'='*60}\n")
 
         df_filt = run_knn_filtered(
-            near_table, earthquake_name=eq,
+            near_table, sites_csv, earthquake_name=eq,
             total_dist_list=filters.get("total_dist_list"),
             nei_dist_list=filters.get("nei_dist_list"),
+            schemes=schemes, lon_col=lon_col, lat_col=lat_col,
         )
         df_unfilt = run_knn_unfiltered(
-            near_table, earthquake_name=eq,
+            near_table, sites_csv, earthquake_name=eq,
             nei_dist_list=filters.get("nei_dist_list"),
+            schemes=schemes, lon_col=lon_col, lat_col=lat_col,
         )
         df_knn = pd.concat([df_filt, df_unfilt], ignore_index=True)
 
@@ -131,7 +150,10 @@ def main():
             print(f"\n{'='*60}")
             print(f" Phase 2C — Kriging: {eq}  (angle={angle}°)")
             print(f"{'='*60}\n")
-            df_k = _run_kriging(kriging_path, earthquake_name=eq, anisotropy_angle=angle)
+            df_k = _run_kriging(
+                kriging_path, earthquake_name=eq,
+                anisotropy_angle=angle, schemes=schemes,
+            )
             out = os.path.join(RESULTS_DIR, f"{eq}_kriging_results.csv")
             df_k.to_csv(out, index=False)
             print(f"  [OK] Saved {len(df_k)} rows → {out}")
